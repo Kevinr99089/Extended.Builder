@@ -1,4 +1,25 @@
 #### ⚠️ Do not download modules from 3rd party sources like random websites you found on Google. Only use this repository. I am not responsible for anything they may contain.
+#### ⚠️ Some patches applied here may not be appreciated by some people
+
+ Applied Patches
+ for ReVanced apps
+ - YouTube 
+ Excluded: Debugging |
+ Included : Recommended
+ - Twitch
+ Excluded : Debug-mode |
+ Included : Recommended
+ - TikTok
+ Excluded : Nothing |
+ Included : Recommended
+ 
+ for Extended apps
+ - Youtube
+ Excluded : Red Logo |
+ Included: Blue Logo, Recommended
+ - YT Music
+ Excluded: Red Logo |
+ Included: Blue Logo, Recommended
 
 # ReVanced Magisk Module
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rvc_magisk)
