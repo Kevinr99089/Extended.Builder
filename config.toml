@@ -30,25 +30,3 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
 build-mode = "apk"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
-
-# extended
-patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
-rv-brand = "ReVanced Extended"
-
-[YouTube]
-build-mode = "apk"
-excluded-patches = ""
-included-patches = ""
-version = "auto"
-exclusive-patches = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
-
-[Music-arm64]
-build-mode = "both"
-app-name = "Music"
-excluded-patches = ""
-included-patches = ""
-version = "auto"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
-arch = "arm64-v8a"
