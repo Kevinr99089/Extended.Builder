@@ -1,25 +1,12 @@
 #### ⚠️ Do not download modules from 3rd party sources like random websites you found on Google. Only use this repository. I am not responsible for anything they may contain.
-#### ⚠️ Some patches applied here may not be appreciated by some people
+#### ⚠️ Only non-root releases (Magisk's are disabled)
 
- Applied Patches
- for ReVanced apps
- - YouTube 
- Excluded: Debugging |
- Included : Recommended
- - Twitch
- Excluded : Debug-mode |
- Included : Recommended
- - TikTok
- Excluded : Nothing |
- Included : Recommended
- 
- for Extended apps
- - Youtube
- Excluded : Red Logo |
- Included: Blue Logo, Recommended
- - YT Music
- Excluded: Red Logo |
- Included: Blue Logo, Recommended
+You can see the patches applied for [Revanced](https://github.com/kevinr99089/revanced.extended/blob/main/config.toml) and for [ReVanced Extended](https://github.com/kevinr99089/revanced.extended/blob/main/config-rv-ex.toml)
+
+Available Apps: YouTube (RV), Twitch (RV), TikTok (RV), YouTube (Ex), YT Music (Ex).
+
+For some reason, the releases notes are from inotia00 only, but the available Releases (here) contain ReVanced and Extended, i'll try to fix that, when i understand how it works.
+#### I also try to make a release available shortly after ReVanced or Extended release(s) their patches (and to avoid the same releases several times in a day) I use this [repository](https://github.com/revanced-apks/build-apps) for helping but it doesn't seem to work here.
 
 # ReVanced Magisk Module
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rvc_magisk)
