@@ -32,9 +32,15 @@ jobs:
           TAG="${{ steps.last_tag.outputs.tag }}"
           if [ -z "$TAG" ]; then TAG=0; fi
           echo "NEXT_VER_CODE=$((TAG + 1))" >> $GITHUB_OUTPUT
-
-      - name: Build modules/APKs
+      - name: Build modules/ReVanced
         run: ./build.sh config.toml
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: $GITHUB_REPOSITORY
+          NEXT_VER_CODE: ${{ steps.next_ver_code.outputs.NEXT_VER_CODE }}
+          
+      - name: Build modules/Extended
+        run: ./build.sh config-rv-ex.toml
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: $GITHUB_REPOSITORY
@@ -48,14 +54,12 @@ jobs:
           cat build.md >> "$GITHUB_OUTPUT"
           echo "${DELIM}" >> "$GITHUB_OUTPUT"
           cp -f build.md build.tmp
-
           yt_op=$(find build -maxdepth 1 -name "youtube-*-magisk-*.zip" -printf '%P\n')
           if [ -z "$yt_op" ]; then
             echo "RELEASE_NAME=ReVanced" >> $GITHUB_OUTPUT
           else
             echo "RELEASE_NAME=$yt_op" >> $GITHUB_OUTPUT
           fi
-
       - name: Upload modules to release
         uses: svenstaro/upload-release-action@v2
         with:
@@ -80,7 +84,6 @@ jobs:
             \"changelog\": \"https://raw.githubusercontent.com/$GITHUB_REPOSITORY/update/build.md\"
           }"
           }
-
           cd build || echo "build folder not found"
           for OUTPUT in *revanced*.zip; do
             [ "$OUTPUT" = "*revanced*.zip" ] && continue
@@ -95,9 +98,7 @@ jobs:
             get_update_json "$VER" "$DLURL" >"../$UPDATE_JSON"
           done
           cd ..
-
           find . -name "*-update.json" | grep . || : >dummy-update.json
-
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           branch: update
@@ -111,7 +112,6 @@ jobs:
         if: env.TG_TOKEN != null
         run: |
           cd build || echo "build folder not found"
-
           TG_CHAT="@rvc_magisk"
           NL=$'\n'
           APKS=""
@@ -126,23 +126,18 @@ jobs:
           done
           MODULES=${MODULES#"$NL"}
           APKS=${APKS#"$NL"}
-
           BODY="$(sed 's/^\* \*\*/↪ \*\*/g; s/^\* `/↪ \*\*/g; s/`/\*/g; s/^\* /\↪/g; s/\*\*/\*/g; s/###//g;' ../build.md)"
           MSG="*New build!*
-
           ${BODY}
-
           *▼ Download Links:*
           Modules:
           ${MODULES}
-
           APKs:
           ${APKS}
           "
           echo "'$MSG'"
           POST="https://api.telegram.org/bot${TG_TOKEN}/sendMessage"
           curl -X POST --data-urlencode "parse_mode=Markdown" --data-urlencode "text=${MSG}" --data-urlencode "chat_id=${TG_CHAT}" "$POST"
-
       - uses: actions/upload-artifact@v3
         with:
           name: logs
