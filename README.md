@@ -3,10 +3,10 @@
 
 You can see the patches applied for [Revanced](https://github.com/kevinr99089/revanced.extended/blob/main/config.toml) and for [ReVanced Extended](https://github.com/kevinr99089/revanced.extended/blob/main/config-rv-ex.toml)
 
-Available Apps: YouTube (RV), Twitch (RV), TikTok (RV), YouTube (Ex), YT Music (Ex).
+- Available Apps: YouTube (RV), Twitch (RV), TikTok (RV), YouTube (Ex), YT Music (Ex).
 
-For some reason, the releases notes are from inotia00 only, but the available Releases (here) contain ReVanced and Extended, i'll try to fix that, when i understand how it works.
-#### I also try to make a release available shortly after ReVanced or Extended release(s) their patches (and to avoid the same releases several times in a day) I use this [repository](https://github.com/revanced-apks/build-apps) for helping but it doesn't seem to work here.
+#### For some reason, the releases notes are from inotia00 only, but the available Releases (here) contain ReVanced and Extended, i'll try to fix that, when i understand how it works.
+I also try to make a release available shortly after ReVanced or Extended release(s) their patches (and to avoid the same releases several times in a day) I use this [repository](https://github.com/revanced-apks/build-apps) for helping but it doesn't seem to work here.
 
 # ReVanced Magisk Module
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rvc_magisk)
