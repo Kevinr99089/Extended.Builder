@@ -24,4 +24,5 @@ YouTube: 18.12.35
 Music (arm64-v8a): 5.50.53  
 
 Install [Vanced Microg](https://github.com/inotia00/VancedMicroG/releases/latest) to be able to use non-root YouTube or Music  
-/nWant the ReVanced builds? click [here](https://github.com/kevinr99089/revanced.builder/releases/latest)  
+
+Want the ReVanced builds? click [here](https://github.com/kevinr99089/revanced.builder/releases/latest)  
