@@ -1,15 +1,14 @@
 CLI: revanced-cli-2.21.0-all.jar  
-Integrations: revanced-integrations-0.101.3.apk  
-Patches: revanced-patches-2.168.3.jar  
+Integrations: revanced-integrations-0.101.6.apk  
+Patches: revanced-patches-2.168.6.jar  
 
 YouTube
 ==
-- add `bypass-ambient-mode-restrictions` patch https://github.com/inotia00/ReVanced_Extended/issues/566
-- fix(protobuf-spoof): unusual subtitle format https://github.com/inotia00/ReVanced_Extended/issues/634
-- fix(overlay-button): overlay button's fadeout animation doesn't match other buttons https://github.com/inotia00/ReVanced_Extended/issues/631
+- fix: `bypass-ambient-mode-restrictions` patch is broken https://github.com/inotia00/ReVanced_Extended/issues/635
+- fix: `Hide breaking news shelf` also hides album card header in search results https://github.com/inotia00/ReVanced_Extended/issues/334
 - rollback(hide-button-container): restore to old code
 - crowdin translation update
-`Arabic`, `Chinese Simplified`, `French`, `Hungarian`, `Italian`, `Japanese`, `Korean`, `Polish`, `Russian`, `Spanish`, `Turkish`, `Ukrainian`, `Vietnamese`
+`Chinese Simplified`, `Italian`, `Japanese`, `Korean`, `Polish`
 
 
 ※ Compatible ReVanced Manager: v0.0.57
