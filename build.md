@@ -1,11 +1,11 @@
 CLI: revanced-cli-2.21.0-all.jar  
-Integrations: revanced-integrations-0.105.3.apk  
-Patches: revanced-patches-2.171.3.jar  
+Integrations: revanced-integrations-0.105.4.apk  
+Patches: revanced-patches-2.171.4.jar  
 
 YouTube
 ==
 - add `hide-get-premium` patch https://github.com/revanced/revanced-patches/issues/1984
-- add `custom-branding-icon-manual` patch [more information](https://github.com/inotia00/revanced-documentation/wiki/Options-Information-about-the-patch#if-you-want-a-custom-icon-only-available-on-cli)
+- add `custom-branding-icon-manual` patch https://github.com/inotia00/revanced-documentation/wiki/Options-Information-about-the-patch#if-you-want-a-custom-icon-only-available-on-cli
 - add `custom-double-tap-length` patch
 - feat(client-spoof): removed from patch list and dependent on `microg-support` patch
 - feat(hide-general-ads): add `Hide audio track button` settings https://github.com/revanced/revanced-patches/issues/1984
@@ -14,6 +14,7 @@ YouTube
 - feat(spoof-app-version): rename patch (`enable-old-layout` → `spoof-app-version`)
 - feat(spoof-app-version): user selectable version to spoof
 - fix(overlay-buttons): repeat button in playlist cannot changed https://github.com/inotia00/ReVanced_Extended/issues/836
+- fix(custom-video-speed): crash due to invalid key https://github.com/inotia00/ReVanced_Extended/issues/911
 - refactor(patch-options): remove `OverlayButtonsIcon`, `clientSpoofVersion` options
 (You should remove `options.toml` file, or simply reinstall the builder)
 - crowdin translation update
@@ -22,7 +23,7 @@ YouTube
 
 YouTube Music
 ==
-- add `custom-branding-music-manual` patch [more information](https://github.com/inotia00/revanced-documentation/wiki/Options-Information-about-the-patch#if-you-want-a-custom-icon-only-available-on-cli)
+- add `custom-branding-music-manual` patch https://github.com/inotia00/revanced-documentation/wiki/Options-Information-about-the-patch#if-you-want-a-custom-icon-only-available-on-cli
 - crowdin translation update
 `Chinese Traditional`, `Greek`, `Korean`, `Polish`, `Spanish`, `Turkish`, `Vietnamese`
 
