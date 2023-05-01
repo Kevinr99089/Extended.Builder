@@ -5,7 +5,7 @@ Patches: revanced-patches-2.171.4.jar
 YouTube
 ==
 - add `hide-get-premium` patch https://github.com/revanced/revanced-patches/issues/1984
-- add `custom-branding-icon-manual` patch https://github.com/inotia00/revanced-documentation/wiki/Options-Information-about-the-patch#if-you-want-a-custom-icon-only-available-on-cli
+- add `custom-branding-icon-manual` patch [more information](https://github.com/inotia00/revanced-documentation/wiki/Options-Information-about-the-patch#if-you-want-a-custom-icon-only-available-on-cli)
 - add `custom-double-tap-length` patch
 - feat(client-spoof): removed from patch list and dependent on `microg-support` patch
 - feat(hide-general-ads): add `Hide audio track button` settings https://github.com/revanced/revanced-patches/issues/1984
@@ -23,7 +23,7 @@ YouTube
 
 YouTube Music
 ==
-- add `custom-branding-music-manual` patch https://github.com/inotia00/revanced-documentation/wiki/Options-Information-about-the-patch#if-you-want-a-custom-icon-only-available-on-cli
+- add `custom-branding-music-manual` patch [more information](https://github.com/inotia00/revanced-documentation/wiki/Options-Information-about-the-patch#if-you-want-a-custom-icon-only-available-on-cli)
 - crowdin translation update
 `Chinese Traditional`, `Greek`, `Korean`, `Polish`, `Spanish`, `Turkish`, `Vietnamese`
 
@@ -41,6 +41,7 @@ ETC
 - [Other Countries](https://crowdin.com/project/revancedextended)
   
 **App Versions:**  
+YouTube_latest: 18.16.39  
 YouTube: 18.16.37  
 Music-arm64 (arm64-v8a): 5.54.52  
 Vanced-MicroG: 0.2.24.220220  
