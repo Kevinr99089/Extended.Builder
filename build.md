@@ -41,8 +41,7 @@ ETC
 - [Other Countries](https://crowdin.com/project/revancedextended)
   
 **App Versions:**  
-YouTube_latest: 18.16.39  
-YouTube: 18.16.37  
+YouTube: 18.16.39  
 Music-arm64 (arm64-v8a): 5.54.52  
 Vanced-MicroG: 0.2.24.220220  
 
