@@ -39,7 +39,7 @@ MicroG
   
 **App Versions:**  
 YouTube: 18.16.39  
-YouTube_latest: 18.17.38  
+YouTube_latest: 18.17.43  
 Vanced-MicroG: 0.2.24.220220  
 Music-arm64 (arm64-v8a): 5.55.53  
 
