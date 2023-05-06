@@ -46,3 +46,5 @@ Music-arm64 (arm64-v8a): 5.55.53
 Install Vanced MicroG to be able to use non-root YouTube or Music  
 
 See [builds for ReVanced](https://github.com/kevinr99089/revanced.builder/releases/latest).  
+
+Attention, the new MicroG is not present in this release, so none of the mentioned patches are applied to MicroG of Team Vanced except the new logo.  
