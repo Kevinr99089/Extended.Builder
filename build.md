@@ -35,4 +35,4 @@ ETC
 
 Install [Vanced MicroG](https://github.com/inotia00/VancedMicroG/releases/latest) to be able to use non-root YouTube or Music  
 
-See [builds for ReVanced](https://github.com/kevinr99089/revanced.builder/releases/latest).  
+See [builds for ReVanced](https://github.com/kevinr99089/ReVanced.Builder/releases/latest).  
