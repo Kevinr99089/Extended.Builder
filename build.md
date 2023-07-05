@@ -1,5 +1,5 @@
-YouTube_Latest: 18.24.37  
 YouTube: 18.24.37  
+YouTube_Latest: 18.24.37  
 YT_Music: 6.08.50  
 CLI: j-hc/revanced-cli-2.22.0-all.jar  
 Integrations: inotia00/revanced-integrations-0.111.2.apk  
