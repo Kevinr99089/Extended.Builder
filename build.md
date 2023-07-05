@@ -1,5 +1,5 @@
-YouTube: 18.24.37  
 YouTube_Latest: 18.24.37  
+YouTube: 18.24.37  
 YT_Music: 6.08.50  
 CLI: j-hc/revanced-cli-2.22.0-all.jar  
 Integrations: inotia00/revanced-integrations-0.111.2.apk  
@@ -141,8 +141,6 @@ Known Issues
 - [Other Countries](https://crowdin.com/project/revancedextended)
 
 ---  
-
-[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
 
 Install [Vanced MicroG](https://github.com/inotia00/VancedMicroG/releases/latest) to be able to use non-root YouTube or Music  
 
