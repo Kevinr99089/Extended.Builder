@@ -1,9 +1,9 @@
-YouTube: 18.25.40  
-YouTube_Latest: 18.25.40  
-YT_Music: 6.10.51  
-CLI: j-hc/revanced-cli-2.23.0-all.jar  
-Integrations: inotia00/revanced-integrations-0.112.3.apk  
-Patches: inotia00/revanced-patches-2.184.3.jar  
+**YouTube:** 18.25.40  
+**YouTube_Latest:** 18.25.40  
+**YT_Music:** 6.10.51  
+**CLI:** j-hc/revanced-cli-2.23.0-all.jar  
+**Integrations:** inotia00/revanced-integrations-0.112.3.apk  
+**Patches:** inotia00/revanced-patches-2.184.3.jar  
 
 YouTube
 ==
