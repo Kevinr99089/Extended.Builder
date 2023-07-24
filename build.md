@@ -1,42 +1,47 @@
-**YouTube_Latest:** 18.25.40  
-**YouTube:** 18.25.40  
-**YT_Music:** 6.10.51  
-**CLI:** j-hc/revanced-cli-2.23.0-all.jar  
-**Integrations:** inotia00/revanced-integrations-0.112.3.apk  
-**Patches:** inotia00/revanced-patches-2.184.3.jar  
+YouTube_Latest: 18.27.35  
+YouTube: 18.27.35  
+YT_Music: 6.11.52  
+CLI: inotia00/revanced-cli-2.22.2-all.jar  
+Integrations: inotia00/revanced-integrations-0.114.4.apk  
+Patches: inotia00/revanced-patches-2.186.4.jar  
 
 YouTube
 ==
-- feat(youtube): remove `hide-live-chat-button` patch (location of the live chat button has been moved even in the old layout)
-- feat(youtube/hide-button-container): changed to expose `Experimental Flags` on YouTube v18.20.39 https://github.com/inotia00/ReVanced_Extended/issues/1103
-- feat(youtube/spoof-player-parameter): changed to selectable option for MicroG (ROOT) users https://github.com/inotia00/ReVanced_Extended/issues/1110
-- fix(youtube/hide-filmstrip-overlay): patch is broken on YouTube v18.20.39
-- fix(youtube/hide-feed-flyout-panel): unintended menus are hidden https://github.com/inotia00/ReVanced_Extended/issues/1129
-- fix(youtube): move the patch to the correct path
-- fix(youtube/hide-account-menu): app crashes in landscape mode https://github.com/inotia00/ReVanced_Extended/issues/549
-- fix(youtube/spoof-player-parameter): show video time and chapters while using seekbar
-- refactor(youtube): renamed some patches and description
+- feat(youtube/hide-suggested-video-overlay): no longer dependent on `overlay-buttons` patches https://github.com/inotia00/ReVanced_Extended/issues/1210
+- fix(youtube): remove dummy code
+- fix(youtube): some fingerprints are located in the wrong path
+- fix(youtube/enable-old-quality-layout): do not use low level filter anymore
+- fix(youtube/hide-shorts-components): sometimes shorts shelves are not hidden
+- fix(youtube/hide-suggested-actions): not hidden normally in some situations
+- fix(youtube/overlay-buttons): remove unnecessary dependencies
+- fix(youtube/swipe-controls): When `Press-to-swipe` is disabled, `Press-to-swipe haptic feedback` should also be disabled https://github.com/inotia00/ReVanced_Extended/issues/811
 - feat(youtube/translations): update translation
-`Arabic`, `Chinese Traditional`, `French`, `Greek`, `Indonesian`, `Italian`, `Japanese`, `Korean`, `Polish`, `Russian`, `Spanish`, `Turkish`, `Vietnamese`
+`Chinese Traditional`, `French`, `German`, `Italian`, `Korean`, `Russian`, `Turkish`
 
 
 Music
 ==
-- refactor(music): renamed some patches and description
 - feat(music/translations): update translation
-`Indonesian`, `Vietnamese`
+`Vietnamese`
 
 
-Etc
+MicroG
 ==
-- chore: use new patch naming convention
-- refactor: change patches naming convention
-- refactor: remove unnecessary annotations
+- feat(microg): temporary suspension of support for all patches https://github.com/inotia00/ReVanced_Extended/issues/1207
 
-※ Compatible ReVanced Manager: [RVX Manager v1.4.0 (fork)](https://github.com/inotia00/revanced-manager/releases/tag/v1.4.0)
+
+Reddit
+==
+- feat(reddit): add `hide-place-button` patch
+
+
+※ Compatible ReVanced Manager: [RVX Manager v1.4.3 (fork)](https://github.com/inotia00/revanced-manager/releases/tag/v1.4.3)
+
 [Crowdin translation]
-- [European Countries](https://crowdin.com/project/revancedextendedeu)
-- [Other Countries](https://crowdin.com/project/revancedextended)
+- [YouTube/European Countries](https://crowdin.com/project/revancedextendedeu)
+- [YouTube/Other Countries](https://crowdin.com/project/revancedextended)
+- [YT Music](https://crowdin.com/project/revanced-music-extended)
+
 ---  
 
 Install [Vanced MicroG](https://github.com/inotia00/VancedMicroG/releases/latest) to be able to use non-root YouTube or Music  
