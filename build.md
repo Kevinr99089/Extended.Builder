@@ -1,38 +1,26 @@
-YouTube: 18.27.35  
-YouTube_Latest: 18.27.35  
-YT_Music: 6.12.52  
+YouTube: 18.27.36  
+YouTube_Latest: 18.29.33  
+YT_Music: 6.12.53  
 CLI: inotia00/revanced-cli-2.22.2-all.jar  
-Integrations: inotia00/revanced-integrations-0.114.7.apk  
-Patches: inotia00/revanced-patches-2.186.7.jar  
+Integrations: inotia00/revanced-integrations-0.114.8.apk  
+Patches: inotia00/revanced-patches-2.186.8.jar  
 
 YouTube
 ==
-- fix(youtube/hide-player-flyout-panel): captions menu not hidden normally https://github.com/inotia00/ReVanced_Extended/issues/1074
-- fix(youtube/overlay-buttons): fullscreen icon does not match https://github.com/inotia00/ReVanced_Extended/issues/1221
-- fix(youtube/settings): wrong alphabetical alignment
-- fix(youtube/spoof-app-version): change target version `17.30.34` > `17.08.35`
-- feat(youtube/spoof-player-parameters): no longer automatically spoofed
-- feat(youtube/spoof-player-parameters): set default value to `on` in non-root environments only
-- feat(youtube/litho-filter): clean up some filters
-- feat(youtube/navbar-index-hook): no longer depend on low-level filters
-- feat(youtube/hide-player-flyout-panel): add `Hide lock screen menu` settings [ScreenShot](https://imgur.com/a/2CQXqhz)
-- feat(youtube/hide-suggested-video-overlay): no longer dependent on `overlay-buttons` patches
+- feat(youtube): add support version `v18.27.36`
+- feat(youtube/spoof-player-parameters): switch default spoofing type
+- fix(youtube/hide-quick-actions): some buttons are not hidden
+- fix(youtube/sponsorblock): skip highlight button showing when set to 'show in seekbar'
 - feat(youtube/translations): update translation
-`Brazilian`, `Chinese Traditional`, `Greek`, `Japanese`, `Korean`, `Russian`, `Spanish`
+`Arabic`, `French`, `Greek`, `Indonesian`, `Italian`, `Korean`, `Russian`, `Turkish`, `Ukrainian`, `Vietnamese`
 
 
-Music
+Etc
 ==
-- feat(music/translations): update translation
-`Brazilian`, `Chinese Traditional`
+- build: bump dependencies
 
 
-Reddit
-==
-- feat(reddit/hide-ads): implementing with settings
-
-
-※ Compatible ReVanced Manager: [RVX Manager v1.4.3-1 (fork)](https://github.com/inotia00/revanced-manager/releases/tag/v1.4.3-1)
+※ Compatible ReVanced Manager: [RVX Manager v1.4.3-2 (fork)](https://github.com/inotia00/revanced-manager/releases/tag/v1.4.3-2)
 
 [Crowdin translation]
 - [YouTube/European Countries](https://crowdin.com/project/revancedextendedeu)
