@@ -1,4 +1,5 @@
 YouTube: 19.04.37  
+YT_Music: 6.37.50  
 
 RVX releases are temporarily or permanently replaced by ReX, as Extended is finished.  
 CLI: j-hc/revanced-cli-4.3.0-all.jar  
