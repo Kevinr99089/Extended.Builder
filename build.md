@@ -1,11 +1,11 @@
-YT_Music: 6.39.50  
+YT_Music: 6.40.53  
 YouTube: 19.02.39  
 
 RVX releases are temporarily or permanently replaced by ReX, as Extended is finished.  
 CLI: j-hc/revanced-cli-4.3.0-all.jar  
-Integrations: YT-Advanced/revanced-integrations-0.144.2.apk  
-Patches: YT-Advanced/revanced-patches-2.220.6.jar  
-[Changelog](https://github.com/YT-Advanced/ReX-patches/releases/tag/v2.220.6)  
+Integrations: YT-Advanced/revanced-integrations-0.145.0.apk  
+Patches: YT-Advanced/revanced-patches-2.220.7.jar  
+[Changelog](https://github.com/YT-Advanced/ReX-patches/releases/tag/v2.220.7)  
 
 Install [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest) for use non-root YouTube and Music  
 
