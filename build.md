@@ -1,3 +1,4 @@
+YouTube: 19.06.36  
 YT_Music: 6.41.58  
 CLI: j-hc/revanced-cli-4.3.0-all.jar  
 Integrations: YT-Advanced/revanced-integrations-0.145.3.apk  
