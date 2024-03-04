@@ -1,5 +1,6 @@
-YouTube: 19.05.36  
 YT_Music: 6.41.58  
+YouTube: 19.05.36  
+YT_Latest: 19.08.36  
 CLI: j-hc/revanced-cli-4.3.0-all.jar  
 Integrations: YT-Advanced/revanced-integrations-0.145.4.apk  
 Patches: YT-Advanced/revanced-patches-2.220.8.jar  
