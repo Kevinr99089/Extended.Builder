@@ -1,6 +1,6 @@
-YouTube: 19.06.36  
 Music: 6.42.52  
-CLI: inotia00/revanced-cli-4.4.1-all.jar  
+YouTube: 19.06.36  
+CLI: j-hc/revanced-cli-4.3.0-all.jar  
 Integrations: anddea/revanced-integrations-0.146.0a.apk  
 Patches: anddea/revanced-patches-2.220.9a.jar  
 [Changelog](https://github.com/anddea/revanced-patches/releases/tag/v2.220.9a)  
