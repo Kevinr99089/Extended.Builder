@@ -1,7 +1,7 @@
-YouTube: 19.05.36  
-Music: 6.42.55  
-YT-Anddea: 19.05.36  
+Music-ReX: 6.42.55  
+YouTube-ReX: 19.07.40  
 Music-Anddea: 6.33.52  
+YT-Anddea: 19.05.36  
 
 # Attention: although RVX/ReX and Anddea have the same names and icons, RVX/ReX settings are not compatible, and they don't use the same package name (it will install as a separate application).  
 
@@ -12,7 +12,7 @@ Patches: anddea/revanced-patches-2.220.9a4.jar
 [Changelog](https://github.com/anddea/revanced-patches/releases/tag/v2.220.9a4)
 
 CLI: inotia00/revanced-cli-4.4.1-all.jar  
-Integrations: YT-Advanced/revanced-integrations-0.146.0.apk  
+Integrations: YT-Advanced/revanced-integrations-0.146.1.apk  
 Patches: YT-Advanced/revanced-patches-2.220.9.jar  
 [Changelog](https://github.com/YT-Advanced/ReX-patches/releases/tag/v2.220.9)  
 
