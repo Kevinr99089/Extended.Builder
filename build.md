@@ -1,7 +1,6 @@
-YT: 19.07.40  
 Music: 6.43.52  
+YT: 19.07.40  
 YT-Re: 19.09.37  
-Music-Re: 6.43.52  
 
 ### Attention: ReX and Re-ReX are 2 different applications, RVX/ReX settings are not compatible with Re-ReX.  
 
