@@ -1,53 +1,27 @@
-#### ⚠️ Do not download modules from 3rd party sources like random websites you found on Google. There are many that uses my modules and impersonates ReVanced.
+# <p align="center"> Welcome to Extended.Builder🔧
+> [!NOTE]
+> ReVanced releases will be moved on this builder on Sunday, March 31, using the same patches.
+> (nothing change here, i will just add YT-ReVanced)
+## <p align="center"> Available apps :
+- YT (Re-ReX), YT Music (RV) (arm64-v8a).
+  
+View [applied patches](https://github.com/kevinr99089/Extended.Builder/blob/main/config.toml), We are currently at the [![GitHub release (with filter)](https://img.shields.io/github/v/release/kevinr99089/Extended.Builder?labelColor=black&color=blue)](https://gitHub.com/kevinr99089/Extended.Builder/releases/latest) for [![GitHub all releases](https://img.shields.io/github/downloads/kevinr99089/Extended.Builder/total?labelColor=black&color=blue)](https://gitHub.com/kevinr99089/Extended.Builder/releases/latest).
 
-# ReVanced Magisk Module
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rvc_magisk)
-[![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
+## <p align="center"> Read more :
+- [History of ReVanced, Extended and Re-ReX](https://github.com/kevinr99089/Extended.Builder/blob/main/extended.md)
 
-Extensive ReVanced builder  
+- [Install Extended/Re-ReX](https://github.com/kevinr99089/Extended.Builder/blob/main/install.md)
 
-Get the [latest CI release](https://github.com/j-hc/revanced-magisk-module/releases).
+## <p align="center"> Thanks to :
+- **[j-hc](https://github.com/j-hc), Creator of this Module.**
 
-Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store if you are using magisk modules. 
+- **[inotia00](https://github.com/inotia00), Creator of Mods for YT and Music.**
 
-<details><summary><big>Features</big></summary>
-<ul>
- <li>Support all present and future ReVanced and <a href="https://github.com/inotia00/revanced-patches">ReVanced Extended</a> apps</li>
- <li> Can build Magisk modules and non-root APKs</li>
- <li> Updated daily with the latest versions of apps and patches</li>
- <li> Optimize APKs and modules for size</li>
- <li> Modules</li>
-    <ul>
-     <li> recompile invalidated odex for faster usage</li>
-     <li> receive updates from Magisk app</li>
-     <li> do not break safetynet or trigger root detections</li>
-     <li> handle installation of the correct version of the stock app and all that</li>
-     <li> support Magisk and KernelSU</li>
-    </ul>
-</ul>
-Note that the <a href="../../actions/workflows/ci.yml">CI workflow</a> is scheduled to build the modules and APKs everyday using GitHub Actions if there is a change in ReVanced patches. You may want to disable it.
-</details>
+- **[anddea](https://github.com/anddea), Creator of Re-ReX, Successor of RVX and ReX.**
 
-## To include/exclude patches or patch other apps
-[**See the list of patches**](https://j-hc.github.io/rvmm-config-gen/)
+> [!WARNING]
+> **[I am NOT inotia00 or Anddea](https://github.com/j-hc/revanced-magisk-module/blob/main/README.md#%EF%B8%8F-do-not-download-modules-from-3rd-party-sources-like-random-websites-you-found-on-google-there-are-many-that-uses-my-modules-and-impersonates-revanced), this repository is [not hosted or supported by them](https://github.com/kevinr99089/Extended.Builder/blob/main/extended.md#-warning-), please [support them](https://github.com/Kevinr99089/Extended.Builder#-thanks-to-).**
 
- * Star the repo :eyes:
- * Use the repo as a [template](https://github.com/new?template_name=revanced-magisk-module&template_owner=j-hc)
- * Customize [`config.toml`](./config.toml) using [rvmm-config-gen](https://j-hc.github.io/rvmm-config-gen/)
- * Run the build [workflow](../../actions/workflows/build.yml)
- * Grab your modules and APKs from [releases](../../releases)
+Check [ReVanced.Builder](https://github.com/kevinr99089/ReVanced.Builder/releases) repository.
 
-also see here [`CONFIG.md`](./CONFIG.md)
-
-## Building Locally
-### On Termux
-```console
-bash <(curl -sSf https://raw.githubusercontent.com/j-hc/revanced-magisk-module/main/build-termux.sh)
-```
-
-### On Desktop
-```console
-$ git clone https://github.com/j-hc/revanced-magisk-module
-$ cd revanced-magisk-module
-$ ./build.sh
-```
+##### <p align="right"> **Extended is owned by Inotia00, no rights reserved.**

@@ -1,66 +1,22 @@
-enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
+# ⚠️ only non-root builds. 
 
-# add 'enabled = false' for not patching a specific app or remove it from the config
-# see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
-
-# you can use rvmm-config-gen to generate a config
-
-[YouTube]
-build-mode = "both"
-excluded-patches = ""
-included-patches = ""
-version = "auto"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-
-[Music]
-build-mode = "both"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-arch = "both"
-
-[Twitter]
-build-mode = "apk"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
-
-[Twitch]
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
-
-[TikTok]
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
-included-patches = "'SIM spoof'"
-
-[Reddit]
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
-
-[Messenger]
+[YT-Re-ReX] # Default patches are applied, except line 6:
 enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
+included-patches = "'Custom branding icon YouTube'"
+excluded-patches = "'Custom branding name YouTube' 'Disable haptic feedback' 'Hide cast button' 'Hide channel watermark' 'Swipe controls' 'Spoof player parameters"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
+
+[Music-Re-ReX] # Default patchs are applied, except (line 11):
+enabled = false
+included-patches = "'Custom branding icon YouTube Music'"
+excluded-patches = "'Custom branding name YouTube Music'"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 arch = "arm64-v8a"
 
-[Spotify]
-enabled = false
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
-
-[IconPackStudio]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
-
-[Music-Extended]
-enabled = false
-app-name = "Music"
-patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
-build-mode = "both"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-arch = "both"
-
-[YouTube-Extended]
-enabled = false
-app-name = "YouTube"
-patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
-build-mode = "both"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+[YT-ReX] # Default patchs are applied, except (line 20):
+patches-source = "YT-Advanced/ReX-patches"
+integrations-source = "YT-Advanced/ReX-integrations"
+cli-source = "ReVanced/revanced-cli"
+included-patches = "'Custom branding icon YouTube'"
+excluded-patches = "'Custom branding name YouTube' 'Disable haptic feedback' 'Hide cast button' 'Hide channel watermark' 'Swipe controls' 'Spoof player parameters'"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
