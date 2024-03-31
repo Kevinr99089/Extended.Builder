@@ -167,10 +167,10 @@ wait
 rm -rf temp/tmp.*
 if [ -z "$(ls -A1 ${BUILD_DIR})" ]; then abort "All builds failed."; fi
 
-log "\n# Attention: from this version, you need replace MicroG with the new version released by ReVanced [GmsCore](https://github.com/ReVanced/GmsCore/releases/latest)"
+log "\n# Attention: you need replace MicroG with the new MicroG [GmsCore](https://github.com/ReVanced/GmsCore/releases/latest) released by ReVanced, to use this release."
 log "$(cat $TEMP_DIR/*-rv/changelog.md)"
-log "\nInstall [GmsCore](https://github.com/ReVanced/GmsCore/releases/latest) for use non-root YT and YT-Music"
-log "\nSee [builds for ReVanced](https://github.com/kevinr99089/ReVanced.Builder/releases/latest)."
+log "\nInstall [GMSCore](https://github.com/ReVanced/GmsCore/releases/latest) for use non-root YT/Music"
+log "\nView old releases for ReVanced: [ReVanced.Builder](https://github.com/Kevinr99089/ReVanced.Builder/releases).
 
 SKIPPED=$(cat $TEMP_DIR/skipped 2>/dev/null || :)
 if [ -n "$SKIPPED" ]; then
