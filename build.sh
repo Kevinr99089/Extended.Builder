@@ -25,7 +25,7 @@ DEF_CLI_VER=$(toml_get "$main_config_t" cli-version) || DEF_CLI_VER=""
 DEF_PATCHES_SRC=$(toml_get "$main_config_t" patches-source) || DEF_PATCHES_SRC="ReVanced/revanced-patches"
 DEF_INTEGRATIONS_SRC=$(toml_get "$main_config_t" integrations-source) || DEF_INTEGRATIONS_SRC="ReVanced/revanced-integrations"
 DEF_CLI_SRC=$(toml_get "$main_config_t" cli-source) || DEF_CLI_SRC="j-hc/revanced-cli"
-DEF_RV_BRAND=$(toml_get "$main_config_t" rv-brand) || DEF_RV_BRAND=""
+DEF_RV_BRAND=$(toml_get "$main_config_t" rv-brand) || DEF_RV_BRAND="ReVanced"
 mkdir -p $TEMP_DIR $BUILD_DIR
 
 if [ "${2:-}" = "--config-update" ]; then
@@ -170,7 +170,7 @@ if [ -z "$(ls -A1 ${BUILD_DIR})" ]; then abort "All builds failed."; fi
 log "\n# Attention: you need replace MicroG with the new MicroG [GmsCore](https://github.com/ReVanced/GmsCore/releases/latest) released by ReVanced, to use this release."
 log "$(cat $TEMP_DIR/*-rv/changelog.md)"
 log "\nInstall [GMSCore](https://github.com/ReVanced/GmsCore/releases/latest) for use non-root YT/Music"
-log "\nView old releases for ReVanced: [ReVanced.Builder](https://github.com/Kevinr99089/ReVanced.Builder/releases).
+log "\nView old releases for ReVanced: [ReVanced.Builder](https://github.com/Kevinr99089/ReVanced.Builder/releases)."
 
 SKIPPED=$(cat $TEMP_DIR/skipped 2>/dev/null || :)
 if [ -n "$SKIPPED" ]; then
