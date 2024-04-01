@@ -10,23 +10,28 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 arch = "arm64-v8a"
 
 [YT-ReReX] # Default patches are applied, Except line 16:
-enabled = false
+enabled = true
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
+patches-version = "v2.223.0-dev.23"
+integrations-version = "v0.150.0-dev.5"
 included-patches = "'Custom branding icon YouTube'"
 excluded-patches = "'Custom branding name YouTube' 'Disable haptic feedback' 'Hide cast button' 'Hide channel watermark' 'Swipe controls' 'Spoof player parameters'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [Music-ReReX] # Default patches are applied:
-enabled = false
+enabled = true
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
+patches-version = "v2.223.0-dev.23"
+integrations-version = "v0.150.0-dev.5"
 included-patches = "'Custom branding icon YouTube Music'"
 excluded-patches = "'Custom branding name YouTube Music'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 arch = "arm64-v8a"
 
 [YT-ReX] # Default patches are applied, Except line 33:
+enabled = false
 patches-source = "YT-Advanced/ReX-patches"
 integrations-source = "YT-Advanced/ReX-integrations"
 included-patches = "'Custom branding icon YouTube'"
@@ -34,6 +39,7 @@ excluded-patches = "'Custom branding name YouTube' 'Disable haptic feedback' 'Hi
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [Music-ReX] # Default patches are applied:
+enabled = false
 patches-source = "YT-Advanced/ReX-patches"
 integrations-source = "YT-Advanced/ReX-integrations"
 included-patches = "'Custom branding icon YouTube Music'"
