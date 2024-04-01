@@ -1,4 +1,6 @@
 # <p align="center"> Welcome to Extended.Builder🔧
+> [!NOTE]
+> Lately, releases have been multiplying, alternating between Anddea and ReX, there have been a lot of changes in RVX community, which should calm down soon. I hope so.
 
 ## <p align="center"> Available apps :
 - YT (RV), YT Music (RV), YT (ReReX), YT Music (ReReX).
