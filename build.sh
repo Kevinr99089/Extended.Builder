@@ -167,7 +167,7 @@ wait
 rm -rf temp/tmp.*
 if [ -z "$(ls -A1 ${BUILD_DIR})" ]; then abort "All builds failed."; fi
 
-log "\n# You need to replace the old MicroG with the new GMSCore to use these releases."
+log "\n### **You NEED to replace the old MicroG with the new GMSCore to use these releases.**"
 log "$(cat $TEMP_DIR/*-rv/changelog.md)"
 log "\nInstall the new [GMSCore](https://github.com/ReVanced/GmsCore/releases/latest) for use non-root YT/Music"
 log "\nView old releases for ReVanced: [ReVanced.Builder](https://github.com/Kevinr99089/ReVanced.Builder/releases)."
