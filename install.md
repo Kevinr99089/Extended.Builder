@@ -1,10 +1,10 @@
 # <p align="center">How to install apps?
 
-### For installing with ReVanced Manager, please [follow this tutorial](https://mega.nz/file/6aYFGaiY#wq5XcuzRE_rKYqp6M2QR-Jf2IkUlrlhnT1HRA6MHHP4)
+### For installing with ReVanced Manager, please [follow this tutorial](https://mega.nz/file/3SAjiIxQ#0dWhhwk5TIEMRz4jct2ztZA1w-bbotf8tEBEzxd1C1Y)
 Links: [ReVanced Manager](https://github.com/ReVanced/revanced-manager/releases/latest), [GMSCore](https://github.com/ReVanced/GmsCore/releases//latest).
 #
-### For installing with ReVancify, please [follow this tutorial](https://mega.nz/file/ubJATAYT#CkAE52hbndje9xH1toF1BNQq7LU0akK0AEKZ5PG3I9E)
-Links: [Termux](https://github.com/KitsunedFox/termux-monet/releases/latest), [GMSCore](https://github.com/ReVanced/GmsCore/releases/latest).
+### For installing with ReVancify, please [follow this tutorial](https://mega.nz/file/vaoTALpD#6ZMQ6DpYWIbXPu6u_s0X5MghSS_J26duI574NCNa8ME)
+Links: [Termux](https://github.com/termux/termux-app/releases/latest), [GMSCore](https://github.com/ReVanced/GmsCore/releases/latest).
 
 Copy/Past this command: After installation, type ```revancify``` in termux and press enter.
 ```console
