@@ -21,7 +21,7 @@ View [applied patches](https://github.com/kevinr99089/Extended.Builder/blob/main
 - **[anddea](https://github.com/anddea), Creator of Re-ReX, Successor of RVX and ReX.**
 
 > [!WARNING]
-> **[I am NOT ReVanced, inotia00 or Anddea](https://github.com/j-hc/revanced-magisk-module/blob/main/README.md#%EF%B8%8F-do-not-download-modules-from-3rd-party-sources-like-random-websites-you-found-on-google-there-are-many-that-uses-my-modules-and-impersonates-revanced), this repository is [not hosted or supported by them](https://github.com/kevinr99089/Extended.Builder/blob/main/history.md#-warning-), please [support them](https://github.com/Kevinr99089/Extended.Builder#-thanks-to-).**
+> **[I am NOT ReVanced, inotia00 or Anddea](https://github.com/j-hc/revanced-magisk-module/blob/main/README.md#%EF%B8%8F-do-not-download-modules-from-3rd-party-sources-like-random-websites-you-found-on-google-there-are-many-that-uses-my-modules-and-impersonates-revanced), this repository is [not hosted or supported by them](https://github.com/kevinr99089/Extended.Builder/blob/main/history.md#-warning-), please support them.**
 
 ##### <p align="right"> **ReVanced is owned by ReVanced Team, no rights reserved.**
 ##### <p align="right"> **Extended is owned by inotia00, no rights reserved.**
