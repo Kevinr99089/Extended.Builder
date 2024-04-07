@@ -170,7 +170,7 @@ if [ -z "$(ls -A1 ${BUILD_DIR})" ]; then abort "All builds failed."; fi
 log "\n### **You NEED to replace the old MicroG with the new GMSCore to use these releases.**"
 log "$(cat $TEMP_DIR/*-rv/changelog.md)"
 log "\nInstall the new [GMSCore](https://github.com/ReVanced/GmsCore/releases/latest) for use non-root YT/Music (Uninstall the old)."
-log "\nView old releases for ReVanced: [ReVanced.Builder](https://github.com/Kevinr99089/ReVanced.Builder/releases)."
+#log "\nSee [builds for ReVanced](https://github.com/kevinr99089/ReVanced.Builder/releases/latest)."
 
 SKIPPED=$(cat $TEMP_DIR/skipped 2>/dev/null || :)
 if [ -n "$SKIPPED" ]; then
