@@ -2,11 +2,9 @@
 
 ## <p align="center"> Available apps :
 - YT (RV), YT Music (RV), YT (ReReX), YT Music (ReReX).
-  
-View [applied patches](https://github.com/kevinr99089/Extended.Builder/blob/main/config.toml), We are currently at the [![GitHub release (with filter)](https://img.shields.io/github/v/release/kevinr99089/Extended.Builder?labelColor=black&color=blue)](https://gitHub.com/kevinr99089/Extended.Builder/releases/latest) for [![GitHub all releases](https://img.shields.io/github/downloads/kevinr99089/Extended.Builder/total?labelColor=black&color=blue)](https://gitHub.com/kevinr99089/Extended.Builder/releases).
+> View [applied patches](https://github.com/kevinr99089/Extended.Builder/blob/main/config.toml).
 
-## <p align="center"> Read more :
-
+## <p align="center"> Learn more :
 - [History of ReVanced and Extended](https://github.com/kevinr99089/Extended.Builder/blob/main/history.md)
 
 - [Install ReVanced and Extended](https://github.com/kevinr99089/Extended.Builder/blob/main/install.md)
