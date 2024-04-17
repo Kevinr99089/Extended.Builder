@@ -11,20 +11,12 @@ Copy/Past this command: After installation, type ```revancify``` in termux and p
 curl -sL "https://raw.githubusercontent.com/decipher3114/Revancify/main/install.sh" | bash
 ```
 #
-### For installing with this builder, please follow this tutorial
+### For installing with this builder, please [follow this tutorial](https://github.com/Kevinr99089/Extended.Builder/blob/main/install.md#for-installing-with-this-builder-please-follow-this-tutorial)
 
-##### Please note that the signatures are different from ReVanced Manager. You will not be able to install these applications without uninstalling the application patched by RV Manager first (remember to export your settings before uninstalling it) (you can however update the applications present here, the signatures do not change).
+> **The signatures are different from ReVanced Manager. You must uninstalling the application patched by RV Manager for use these releases (export your settings before uninstalling it).**
 #
 
-Go to the Extended.Builder [main page](https://github.com/kevinr99089/Extended.Builder) and scroll down :
-
-<img src=".github/Installation/01.png">
-
-and click on the latest releases :
-
-<img src=".github/Installation/02.png">
-
-Scroll down the page again and click on the application you want (For my exemple, YT-ReReX), then on GMSCore. You need GMSCore/MicroG to use YT/Music:
+Go to [Releases](https://github.com/kevinr99089/Extended.Builder) page, scroll down and click on the application you want (For my exemple, YT-ReReX), then on GMSCore (required for use these mods):
 
 <img src=".github/Installation/03.png">
 
