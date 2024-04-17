@@ -22,7 +22,7 @@
 - **[anddea](https://github.com/anddea), Creator of Re-ReX, Successor of RVX and ReX.**
 
 > [!WARNING]
-> **I am NOT ReVanced, inotia00 or Anddea, this repository is [not hosted or supported by them](https://github.com/kevinr99089/Extended.Builder/blob/main/history.md#-warning-), please support them.**
+> **I am NOT ReVanced, inotia00 or Anddea, this repository is [not hosted or supported by them](https://github.com/kevinr99089/Extended.Builder/blob/main/history.md#-warning-), please support us.**
 
 ##### <p align="right"> **ReVanced is owned by ReVanced Team, no rights reserved.**
 ##### <p align="right"> **Extended is owned by inotia00, no rights reserved.**
