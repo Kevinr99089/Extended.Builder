@@ -24,12 +24,12 @@ Today, Extended has been definitively discontinued, but Alireza continues to rel
 
 I thank [Vanced team](https://github.com/TeamVanced) for creating YT Vanced and Vanced Music, [ReVanced Team](https://github.com/ReVanced) for resurrecting Vanced with YT and YT Music, and diversifying, [Inotia00](https://github.com/inotia00) for enhancing ReVanced by adding very useful functions to YT and YT Music, [Alireza](https://github.com/YT-Advanced), successor of Inotia00 and [Anddea](https://github.com/Anddea) successor of RVX and ReX.
 
-You deserve more recognition (but not too much either).
+You deserve more recognition.
 
 # <p align="center"> Warning !
 
-Attention: ReVanced, Inotia00, Alireza and Anddea does NOT share any patched applications, nor does it recommend the use of any app ready-to-use from download sites. I don't recommend it either, as applications downloaded from third-party sites may contain malicious code. The only solution is to use RV/X Manager or ReVancify. No site is 100% safe.
+Attention: ReVanced, Inotia00, Alireza and Anddea does NOT share any patched applications, nor does it recommend the use of any app ready-to-use from download sites. I don't recommend it either, as applications downloaded from third-party sites may contain malicious code. The only solution is to use [RV/X Manager](https://github.com/Kevinr99089/Extended.Builder/blob/main/install.md#for-installing-with-revanced-manager-please-follow-this-tutorial) or [ReVancify](https://github.com/Kevinr99089/Extended.Builder/blob/main/install.md#for-installing-with-revancify-please-follow-this-tutorial). No site is 100% safe.
 
 # <p align="center"> So why am i using this repository ?
 
-I rather be clear with you: This and similar repositiry are neither tolerated by ReVanced, Inotia00, Alireza and Anddea for [DMCA](https://en.m.wikipedia.org/wiki/Digital_Millennium_Copyright_Act) reasons. I opened it for personal use. If ReVanced, Inotia00, Alireza or Anddea sees this message: I'd like to apologize for using this kind of solution, it's for simplicity and automation. I can delete this repository if you ask me to, but please note that I don't use it to share applications or to include malicious code.
+I rather be clear with you: This and similar repositiry are neither tolerated by ReVanced, Inotia00, Alireza and Anddea for [DMCA](https://en.m.wikipedia.org/wiki/Digital_Millennium_Copyright_Act) reasons. I opened it for personal use. If ReVanced, Inotia00, Alireza or Anddea sees this message: I'd like to apologize for using this kind of solution, it's for simplicity and automation. I can delete this repository if you ask me to, but please note that I do not promote this repository, nor do I use it to share applications or include malicious code.
