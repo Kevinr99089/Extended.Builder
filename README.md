@@ -1,8 +1,5 @@
 # <p align="center"> Welcome to Extended.Builder🔧
 
-> [!NOTE]
-> **I updated the tags today, we're currently at 30 releases instead of 81, the tags are no longer correct (after the 5th), but it's a clean-up.**
-
 ## <p align="center"> Available apps :
 - YT (RV), YT Music (RV), YT (ReReX), YT Music (ReReX).
 > View [applied patches](https://github.com/kevinr99089/Extended.Builder/blob/main/config.toml).
