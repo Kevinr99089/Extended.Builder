@@ -25,16 +25,6 @@ jobs:
           fetch-depth: 0
           submodules: true
 
-      - name: Update config
-        if: ${{ inputs.from_ci }}
-        run: |
-          if git checkout origin/update build.md; then
-            UPDATE_CFG=$(./build.sh config.toml --config-update)
-            if [ "$UPDATE_CFG" ]; then
-              echo "$UPDATE_CFG" > config.toml
-            fi
-          fi
-
       - name: Get next version code
         id: next_ver_code
         env:
