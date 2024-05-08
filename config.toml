@@ -1,12 +1,12 @@
 # ⚠️ Only non-root builds (Can be used on rooted device).
 
 [YT-Extended] # Default patches are applied, Except line 4 & 5 :
+enabled = false
 included-patches = "'Custom branding icon YouTube'"
 excluded-patches = "'Custom branding name YouTube' 'Disable haptic feedback' 'Hide cast button' 'Hide settings preferences' 'Hide channel watermark' 'Hide navigation label' 'Swipe controls' 'Spoof player parameters' 'Tuck away preferences'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [Music-Extended] # Default patches are applied, Except line 9 & 10 :
-enabled = false
 included-patches = "'Custom branding icon YouTube Music'"
 excluded-patches = "'Custom branding name YouTube Music'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
