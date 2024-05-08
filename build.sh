@@ -168,7 +168,6 @@ wait
 rm -rf temp/tmp.*
 if [ -z "$(ls -A1 ${BUILD_DIR})" ]; then abort "All builds failed."; fi
 
-log "\n# Welcome back, inotia00"
 log "$(cat $TEMP_DIR/*-rv/changelog.md)"
 log "\nInstall the new [GMSCore](https://github.com/ReVanced/GmsCore/releases/latest) for use non-root YT/Music **(You NEED uninstall the old)**."
 log "\nSee [builds for ReVanced](https://github.com/kevinr99089/ReVanced.Builder/releases)."
