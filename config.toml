@@ -14,6 +14,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 arch = "arm64-v8a"
 
 [YT-ReReX] # Default patches are applied, Except line 17 & 18 :
+enabled = false
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 included-patches = "'Custom branding icon YouTube'"
@@ -21,7 +22,6 @@ excluded-patches = "'Custom branding name YouTube' 'Disable haptic feedback' 'Hi
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [Music-ReReX] # Default patches are applied, Except line 24 & 25 :
-enabled = false
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 included-patches = "'Custom branding icon YouTube Music'"
