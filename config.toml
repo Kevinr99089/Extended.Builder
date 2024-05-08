@@ -6,6 +6,7 @@ excluded-patches = "'Custom branding name YouTube' 'Disable haptic feedback' 'Hi
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [Music-Extended] # Default patches are applied, Except line 9 & 10 :
+enabled = false
 included-patches = "'Custom branding icon YouTube Music'"
 excluded-patches = "'Custom branding name YouTube Music'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
@@ -19,6 +20,7 @@ excluded-patches = "'Custom branding name YouTube' 'Disable haptic feedback' 'Hi
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [Music-ReReX] # Default patches are applied, Except line 24 & 25 :
+enabled = false
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 included-patches = "'Custom branding icon YouTube Music'"
