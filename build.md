@@ -1,10 +1,5 @@
-Music-RV: 6.51.52  
-YT-RV: 19.11.43  
 YT-Extended: 19.16.39  
 YT-ReReX: 19.16.38  
-Music-ReReX: 6.51.52  
-
-# Welcome back, inotia00  
 Integrations: anddea/revanced-integrations-0.151.0.apk  
 Patches: anddea/revanced-patches-2.224.0.jar  
 [Changelog](https://github.com/anddea/revanced-patches/releases/tag/v2.224.0)
