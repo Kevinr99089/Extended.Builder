@@ -1,4 +1,5 @@
-YT-Extended: 19.16.39  
+Music-Extended: 6.50.51  
+Music-ReReX: 6.51.52  
 YT-ReReX: 19.16.38  
 Integrations: anddea/revanced-integrations-0.151.0.apk  
 Patches: anddea/revanced-patches-2.224.0.jar  
