@@ -18,9 +18,9 @@ After the Vanced Team stopped development, and ReVanced appeared, he edited his 
 
 Extended offers more comprehensive patches, but focuses solely on YT, YT Music and, more recently, Reddit, offering all Vanced features, plus additional functionality to meet current expectations regarding new YT features. Although its community is smaller than that of ReVanced, Inotia00 has chosen to open a Crowdin for its community to help translate YT Extended and YT Music Extended into their language, so that, as with Vanced, the added settings are translated.
 
-During first discontinued of Extended, a fork called YT-Advanced (from his pseudo Alireza), shortened to ReX, took over Extended's development.
+During first pause of Extended, a fork called YT-Advanced (from his pseudo Alireza), shortened to ReX, took over Extended's development.
 When inotia00 finally took over Extended, it integrated the modifications made by Alireza, and worked together.
-Today, Extended has been definitively discontinued, but Alireza continues to release new versions whenever he has free time. Recently, Alireza announced that he would be stopping ReX for an indefinite period, so we're hearing more and more about Anddea, who had previously collaborated with Inotia00 on Extended, under the (unofficial) name of Re-ReX, and is now collaborating with Alireza and Rufusin to improve understanding of Extended parameters on his YT-Advanced fork.
+Later (during Extended's second pause), under the (unofficial) name of Re-ReX, Alireza and Anddea work together to improve Extended's parameters.
 
 I thank [Vanced team](https://github.com/TeamVanced) for creating YT Vanced and Vanced Music, [ReVanced Team](https://github.com/ReVanced) for resurrecting Vanced with YT and YT Music, and diversifying, [Inotia00](https://github.com/inotia00) for enhancing ReVanced by adding very useful functions to YT and YT Music  and [Anddea](https://github.com/Anddea) to continue inotia00's work during its breaks.
 
