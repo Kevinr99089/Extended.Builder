@@ -2,7 +2,7 @@
 
 [YT-Extended] # Default patches are applied, Except line 4 & 5 :
 included-patches = "'Custom branding icon YouTube' 'MaterialYou'"
-excluded-patches = "'Custom branding name YouTube' 'Disable haptic feedback' 'Navigation bar components' 'Swipe controls'"
+excluded-patches = "'Custom branding name YouTube' 'Disable haptic feedback' 'Swipe controls'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [Music-Extended] # Default patches are applied, Except line 9 & 10 :
