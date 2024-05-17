@@ -10,13 +10,12 @@
 - [Install Extended](https://github.com/kevinr99089/Extended.Builder/blob/main/install.md)
 
 ## <p align="center"> Thanks to :
+>[!NOTE]
+> **I am NOT Inotia00 or Anddea, this repository is [not hosted or supported by them](https://github.com/kevinr99089/Extended.Builder/blob/main/history.md#-warning-), support their efforts.**
 - **[j-hc](https://github.com/j-hc), Creator of this Module.**
 
 - **[inotia00](https://github.com/inotia00), Creator of Mods for YT and Music.**
 
 - **[anddea](https://github.com/anddea), Creator of Re-ReX, Successor of RVX and ReX.**
-
-> [!WARNING]
-> **I am NOT Inotia00 or Anddea, this repository is [not hosted or supported by them](https://github.com/kevinr99089/Extended.Builder/blob/main/history.md#-warning-), support their efforts.**
 
 ##### <p align="right"> **Extended is owned by inotia00, no rights reserved.**
