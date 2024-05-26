@@ -169,7 +169,6 @@ rm -rf temp/tmp.*
 if [ -z "$(ls -A1 ${BUILD_DIR})" ]; then abort "All builds failed."; fi
 
 log "$(cat $TEMP_DIR/*-rv/changelog.md)"
-log "\nInstall the new [GMSCore](https://github.com/ReVanced/GmsCore/releases/latest) for use non-root YT/Music **(You NEED uninstall the old)**."
 log "\nSee [builds for ReVanced](https://github.com/kevinr99089/ReVanced.Builder/releases)."
 
 SKIPPED=$(cat $TEMP_DIR/skipped 2>/dev/null || :)
