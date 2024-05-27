@@ -169,7 +169,7 @@ rm -rf temp/tmp.*
 if [ -z "$(ls -A1 ${BUILD_DIR})" ]; then abort "All builds failed."; fi
 
 log "$(cat $TEMP_DIR/*-rv/changelog.md)"
-log "\nFind all links on [README.md](https://github.com/Kevinr99089/Extended.Builder)"
+log "\nFind all links on [README.md](https://github.com/Kevinr99089/Extended.Builder)."
 
 SKIPPED=$(cat $TEMP_DIR/skipped 2>/dev/null || :)
 if [ -n "$SKIPPED" ]; then
