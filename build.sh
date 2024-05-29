@@ -168,8 +168,9 @@ wait
 rm -rf temp/tmp.*
 if [ -z "$(ls -A1 ${BUILD_DIR})" ]; then abort "All builds failed."; fi
 
+log "\n## ReReX has now been moved to Anddea.Builder, go to [README.md](https://github.com/Kevinr99089/Extended.Builder) for more information."
+log "\n## ReReX is no longer available on Extended.Builder."
 log "$(cat $TEMP_DIR/*-rv/changelog.md)"
-log "\nReReX now has its own repository, go to [README.md](https://github.com/Kevinr99089/Extended.Builder) for more information.
 
 SKIPPED=$(cat $TEMP_DIR/skipped 2>/dev/null || :)
 if [ -n "$SKIPPED" ]; then
