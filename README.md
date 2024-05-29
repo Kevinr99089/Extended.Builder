@@ -1,7 +1,7 @@
 # <p align="center"> Welcome to Extended.Builder🔧
 
 ## <p align="center"> Available apps :
-- YT (Extended), YT Music (Extended), YT (ReReX), YT Music (ReReX).
+- YT (Extended), YT Music (Extended) and YT (ReReX).
 > To use these applications, you need to install [GMSCore](https://github.com/ReVanced/GmsCore/releases/latest). View [applied patches](https://github.com/kevinr99089/Extended.Builder/blob/main/config.toml).
 
 ## <p align="center"> Learn more :
