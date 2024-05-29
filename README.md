@@ -1,7 +1,7 @@
 # <p align="center"> Welcome to Extended.Builder🔧
 
 >[!note]
-> **ReReX will get a dedicated repository soon, as a consequence, it will no longer be on Extended.Builder.**
+> **ReReX has now its own repository, after the next release of ReReX on Extended.Builder, the patches will be removed from Extended.Builder to move on Anddea.Builder .**
 
 ## <p align="center"> Available apps :
 - YT (Extended), YT Music (Extended) and YT (ReReX).
@@ -12,7 +12,7 @@
 
 - [Install Extended](https://github.com/kevinr99089/Extended.Builder/blob/main/install.md)
 
-- [Builds for ReVanced](https://github.com/Kevinr99089/ReVanced.Builder)
+- [Builds for ReVanced](https://github.com/Kevinr99089/ReVanced.Builder), [Builds for ReReX](https://github.com/Kevinr99089/Anddea.Builder).
 
 ## <p align="center"> Thanks to :
 >[!NOTE]
