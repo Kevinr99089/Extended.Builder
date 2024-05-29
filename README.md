@@ -1,7 +1,7 @@
 # <p align="center"> Welcome to Extended.Builder🔧
 
 >[!note]
-> **ReReX has now its own repository, after the next release of ReReX on Extended.Builder, the patches will be removed from Extended.Builder to move on Anddea.Builder .**
+> **ReReX has now its own repository, after the next release of ReReX on Extended.Builder, the patches will be moved to Anddea.Builder  (same patches will be used).**
 
 ## <p align="center"> Available apps :
 - YT (Extended), YT Music (Extended) and YT (ReReX).
