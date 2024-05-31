@@ -18,18 +18,14 @@ After the Vanced Team stopped development, and ReVanced appeared, he edited his 
 
 Extended offers more comprehensive patches, but focuses solely on YT, YT Music and, more recently, Reddit, offering all Vanced features, plus additional functionality to meet current expectations regarding new YT features. Although its community is smaller than that of ReVanced, Inotia00 has chosen to open a Crowdin for its community to help translate YT Extended and YT Music Extended into their language, so that, as with Vanced, the added settings are translated.
 
-During first pause of Extended, a fork called YT-Advanced (from his pseudo Alireza), shortened to ReX, took over Extended's development.
-When inotia00 finally took over Extended, it integrated the modifications made by Alireza, and worked together.
-Later (during Extended's second pause), under the (unofficial) name of Re-ReX, Alireza and Anddea work together to improve Extended's parameters.
-
-I thank [Vanced team](https://github.com/TeamVanced) for creating YT Vanced and Vanced Music, [ReVanced Team](https://github.com/ReVanced) for resurrecting Vanced with YT and YT Music, and diversifying, [Inotia00](https://github.com/inotia00) for enhancing ReVanced by adding very useful functions to YT and YT Music  and [Anddea](https://github.com/Anddea) to continue inotia00's work during its breaks.
+I thank [Vanced team](https://github.com/TeamVanced) for creating YT Vanced and Vanced Music, [ReVanced Team](https://github.com/ReVanced) for resurrecting Vanced with YT and YT Music, and diversifying and [Inotia00](https://github.com/inotia00) for enhancing ReVanced by adding very useful functions to YT and YT Music.
 
 You deserve more recognition.
 
 # <p align="center"> Warning !
 
-Attention: Inotia00 and Anddea does NOT share any patched applications, nor does it recommend the use of any app ready-to-use from download sites. I don't recommend it either, as applications downloaded from third-party sites may contain malicious code. The only solution is to use [RV/X Manager](https://github.com/Kevinr99089/Extended.Builder/blob/main/install.md#for-installing-with-revanced-manager-please-follow-this-tutorial) or [ReVancify](https://github.com/Kevinr99089/Extended.Builder/blob/main/install.md#for-installing-with-revancify-please-follow-this-tutorial). No site is 100% safe.
+Attention: Inotia00 does NOT share any patched applications, nor does it recommend the use of any app ready-to-use from download sites. I don't recommend it either, as applications downloaded from third-party sites may contain malicious code. The only solution is to use [RV/X Manager](https://github.com/Kevinr99089/Extended.Builder/blob/main/install.md#for-installing-with-revanced-manager-please-follow-this-tutorial) or [ReVancify](https://github.com/Kevinr99089/Extended.Builder/blob/main/install.md#for-installing-with-revancify-please-follow-this-tutorial). No site is 100% safe.
 
 # <p align="center"> So why am i using this repository ?
 
-I rather be clear with you: This repository (and similar)  are neither tolerated by Inotia00 and Anddea for [DMCA](https://en.m.wikipedia.org/wiki/Digital_Millennium_Copyright_Act) reasons. I opened it for personal use. If Inotia00 or Anddea sees this message: I'd like to apologize for using this kind of solution, it's for simplicity and automation. I can delete this repository if you ask me to, but please note that I do not promote this repository, nor do I use it to share applications or include malicious code.
+I rather be clear with you: This repository (and similar)  are neither tolerated by Inotia00 for [DMCA](https://en.m.wikipedia.org/wiki/Digital_Millennium_Copyright_Act) reasons. I opened it for personal use. If Inotia00 see this message: I'd like to apologize for using this kind of solution, it's for simplicity and automation. I can delete this repository if you ask me to, but please note that I do not promote this repository, nor do I use it to share applications or include malicious code.
