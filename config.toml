@@ -5,12 +5,7 @@ included-patches = "'Custom branding icon for YouTube' 'Custom header for YouTub
 excluded-patches = "'Custom branding name for YouTube' 'Disable haptic feedback' 'Swipe controls'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
-[YT-Lite] # Default patches are applied, Except line 9 & 10 :
-included-patches = "'Custom branding icon for YouTube' 'Custom header for YouTube' 'Visual preferences icons'"
-excluded-patches = "'Alternative thumbnails' 'Change Shorts repeat state' 'Custom Shorts action buttons' 'Custom branding name for YouTube' 'Disable auto audio tracks' 'Disable auto captions' 'Disable haptic feedback' 'Disable QUIC protocol' 'Disable resuming Shorts on startup' 'Disable splash animation' 'Enable debug logging' 'Enable gradient loading screen' 'Swipe controls'"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
-
-[YT-ULite] # Default patches are applied, Except line 15:
+[YT-Essential] # Only patches on line 15 are applied, This is Extended, but only the essentials:
 exclusive-patches = true
 included-patches = "'Ambiant mode control' 'Change start page' 'Custom branding icon for YouTube' 'Custom header for YouTube' 'GmsCore support' 'Hide Ads' 'Hide feed components' 'Hide action buttons' 'Layout switch' 'Navigation bar components' 'Overlay buttons' 'Player components' 'ReturnYouTubeDislike' 'Sanitize sharing links' 'Settings for YouTube' 'Shorts Components' 'Spoof client' 'SponsorBlock' 'Toolbar components' 'Translations for YouTube' 'Visual preferences icons'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
