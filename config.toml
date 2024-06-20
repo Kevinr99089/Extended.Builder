@@ -12,7 +12,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [YT-ULite] # Default patches are applied, Except line 15:
 exclusive-patches = true
-included-patches = "'Ambiant mode control' 'Change start page' 'Custom branding icon for YouTube' 'Custom header for YouTube' 'GmsCore support' 'Hide Ads' 'Hide feed components' 'Hide player buttons'  'Navigation bar components' 'Player components' 'ReturnYouTubeDislike' 'Shorts Components' 'Sanitize sharing links' 'Settings for YouTube' 'Spoof client' 'SponsorBlock' 'Toolbar components' 'Translations for YouTube' 'Visual preferences icons'"
+included-patches = "'Ambiant mode control' 'Change player flyout menu toggles' 'Change start page' 'Custom branding icon for YouTube' 'Custom header for YouTube' 'GmsCore support' 'Hide Ads' 'Hide feed components' 'Hide action buttons'  'Navigation bar components' 'Player components' 'ReturnYouTubeDislike' 'Shorts Components' 'Sanitize sharing links' 'Settings for YouTube' 'Spoof client' 'SponsorBlock' 'Toolbar components' 'Translations for YouTube' 'Visual preferences icons'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [Music] # Default patches are applied, Except line 19 & 20 :
