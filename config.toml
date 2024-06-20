@@ -1,16 +1,21 @@
 # ⚠️ Only non-root builds (Can be used on rooted device).
 
 [YT] # Default patches are applied, Except line 4 & 5 :
-included-patches = "'Custom branding icon for YouTube' 'Visual preferences icons'"
+included-patches = "'Custom branding icon for YouTube' 'Custom header for YouTube' 'Visual preferences icons'"
 excluded-patches = "'Custom branding name for YouTube' 'Disable haptic feedback' 'Swipe controls'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [YT-Lite] # Default patches are applied, Except line 9 & 10 :
-included-patches = "'Custom branding icon for YouTube' 'Visual preferences icons'"
-excluded-patches = "'Alternative thumbnails' 'Change Shorts repeat state' 'Custom Shorts action buttons' 'Custom branding name for YouTube' 'Disable auto audio tracks' 'Disable auto captions' 'Disable haptic feedback' 'Disable QUIC protocol' 'Disable resuming Shorts on startup' 'Disable splash animation' 'Enable debug logging' 'Enable gradient loading screen' 'Force hide player buttons background' 'Hide Shorts dimming' 'Hide animated button background' 'Hide double tap overlay filter' 'Hide double tap to like animations' 'Swipe controls'"
+included-patches = "'Custom branding icon for YouTube' 'Custom header for YouTube' 'Visual preferences icons'"
+excluded-patches = "'Alternative thumbnails' 'Change Shorts repeat state' 'Custom Shorts action buttons' 'Custom branding name for YouTube' 'Disable auto audio tracks' 'Disable auto captions' 'Disable haptic feedback' 'Disable QUIC protocol' 'Disable resuming Shorts on startup' 'Disable splash animation' 'Enable debug logging' 'Enable gradient loading screen' 'Swipe controls'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
-[Music] # Default patches are applied, Except line 14 & 15 :
+[YT-ULite] # Default patches are applied, Except line 15:
+exclusive-patches = true
+included-patches = "'Ambiant mode control' 'Change start page' 'Custom branding icon for YouTube' 'Custom header for YouTube' 'GmsCore support' 'Hide Ads' 'Hide feed components' 'Navigation bar components' 'ReturnYouTubeDislike' 'Shorts Components' 'Sanitize sharing links' 'Settings for YouTube' 'Spoof client' 'SponsorBlock' 'Toolbar components' 'Translations for YouTube' 'Visual preferences icons'"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
+
+[Music] # Default patches are applied, Except line 19 & 20 :
 included-patches = "'Custom branding icon for YouTube Music'"
 excluded-patches = "'Custom branding name for YouTube Music'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
