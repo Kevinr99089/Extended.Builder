@@ -1,14 +1,7 @@
-Music-Extended: 7.05.52  
-YT-Extended: 19.21.40  
-YT-ReReX: 19.20.34  
-## ReReX has now been moved to Anddea.Builder, go to [README.md](https://github.com/Kevinr99089/Extended.Builder) for more information.  
-### Attention: All Anddea patches are now available on Extended.  
+Music: 7.06.53  
+YT: 19.23.40  
+YT-Essential: 19.23.40  
 CLI: inotia00/revanced-cli-4.6.1-all.jar  
-Integrations: anddea/revanced-integrations-0.152.0.apk  
-Patches: anddea/revanced-patches-2.225.0.jar  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v2.225.0)
-
-CLI: inotia00/revanced-cli-4.6.1-all.jar  
-Integrations: inotia00/revanced-integrations-1.10.1.apk  
-Patches: inotia00/revanced-patches-4.9.1.jar  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v4.9.1)  
+Integrations: inotia00/revanced-integrations-1.10.2.apk  
+Patches: inotia00/revanced-patches-4.9.2.jar  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v4.9.2)  
