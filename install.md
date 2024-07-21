@@ -94,9 +94,10 @@ and you're done. In YT-Extended, click on the top right corner and click on "+" 
     <summary>Easy installation</summary>
 
 > **The signatures are different from ReVanced Manager. You must uninstalling the application patched by RV Manager for use these releases (export your settings before uninstalling it).**
-#
 
 > This installation method was inspired by a friend, [Support his efforts](https://github.com/peternmuller/revanced-builder).
+
+#
 
 Go to [Obtainium Releases](https://github.com/ImranR98/Obtainium/releases/latest) page, scroll down and select the application corresponding to your processor architecture (for my exemple, arm64-v8a):
 
