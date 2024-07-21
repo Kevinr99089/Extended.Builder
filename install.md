@@ -18,11 +18,11 @@ curl -sL "https://raw.githubusercontent.com/decipher3114/Revancify/main/install.
 > **The signatures are different from ReVanced Manager. You must uninstalling the application patched by RV Manager for use these releases (export your settings before uninstalling it).**
 #
 
-Go to [Releases](https://github.com/kevinr99089/Extended.Builder) page, scroll down and click on the application you want (For my exemple, YT-ReReX), then on GMSCore (required for use these mods):
+Go to [Releases](https://github.com/kevinr99089/Extended.Builder) page, scroll down and click on the application you want (For my exemple, YT-Extended), then on [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases/latest) (required for use these mods):
 
 <img src=".github/Installation/03.png">
 
-and click on app.revanced.android.gms-xxxxxxxxx-signed.apk :
+and click on MicroG_RE_x.x.apk :
 
 <img src=".github/Installation/04.png">
 
@@ -51,7 +51,7 @@ If you had to disable it to install these applications, reactivate it once all t
 
 ---
 
-click (in the notification bar) on app.revanced.android.[...].apk first
+click (in the notification bar) on MicroG_RE_x.x.apk first
 
 <img src=".github/Installation/09.png">
 
@@ -67,11 +67,11 @@ Another pop-up will appear, click on "install".
 
 <img src=".github/Installation/12.png">
 
-Once microG Services is installed, click on OK and click on YT-ReReX (in the notification bar) and click on "Install"
+Once microG Services is installed, click on OK and click on YT-Extended (in the notification bar) and click on "Install"
 
 <img src=".github/Installation/13.png">
 
-Once done, Go to Home screen (or Settings > Apps), and go to microG Services settings :
+Once done, Go to Home screen (or Settings > Apps), and go to MicroG settings :
 
 <img src=".github/Installation/14.png">
 
@@ -87,7 +87,7 @@ Return to the previous menu and disable battery optimizations :
 
 <img src=".github/Installation/17.png">
 
-and you're done. In YT-ReReX, click on the top right corner and click on "+" to sign in to your Google account.
+and you're done. In YT-Extended, click on the top right corner and click on "+" to sign in to your Google account.
 
 </details>
 <details>
@@ -96,7 +96,9 @@ and you're done. In YT-ReReX, click on the top right corner and click on "+" to 
 > **The signatures are different from ReVanced Manager. You must uninstalling the application patched by RV Manager for use these releases (export your settings before uninstalling it).**
 #
 
-Go to [Optainium Releases](https://github.com/ImranR98/Obtainium/releases/latest) page, scroll down and select the application corresponding to your processor architecture (for my exemple, arm64-v8a):
+> This installation method was inspired by a friend, [Support his efforts](https://github.com/peternmuller/revanced-builder).
+
+Go to [Obtainium Releases](https://github.com/ImranR98/Obtainium/releases/latest) page, scroll down and select the application corresponding to your processor architecture (for my exemple, arm64-v8a):
 
 <img src=".github/Installation/20.png">
 
@@ -135,7 +137,7 @@ and allow permission for install app :
 
 <img src=".github/Installation/21.png">
 
-once installed, open Optainium, the application looks complicated, but it's not.
+once installed, open Obtainium, the application looks complicated, but it's not.
 Click on Add App, and paste this link into App Source URL *:
 ```console
 https://www.github.com/Kevinr99089/Extended.Builder
@@ -144,7 +146,7 @@ https://www.github.com/Kevinr99089/Extended.Builder
 
 <img src=".github/Installation/22.png">
 
-Once pasted, parameters will open. Check "Verify the 'latest' tag":
+Once pasted, settings will open. Check "Verify the 'latest' tag":
 
 <img src=".github/Installation/23.png">
 
@@ -191,7 +193,7 @@ and type "Add"
 Perfect, the 3 applications we needed are ready to install. Just click on the download icon on the 3 applications
 <img src=".github/Installation/29.png">
 
-Once done, Go to Home screen (or Settings > Apps), and go to microG Services settings :
+Once done, Go to Home screen (or Settings > Apps), and go to MicroG settings :
 
 <img src=".github/Installation/14.png">
 
