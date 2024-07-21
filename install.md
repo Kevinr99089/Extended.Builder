@@ -134,7 +134,11 @@ if you have never installed applications from the Web, you need to Enable in the
 
 <img src=".github/Installation/10.png">
 
-and allow permission for install app :
+and allow permission: 
+
+<img src=".github/Installation/11.png">
+
+ then install app :
 
 <img src=".github/Installation/21.png">
 
@@ -159,6 +163,9 @@ Scroll up again and click on "Add":
 
 <img src=".github/Installation/25.png">
 
+<details>
+    <summary>install YT-Music (optional)</summary>
+
 Click again on "Add App", and paste this link into App Source URL *:
 ```console
 https://www.github.com/Kevinr99089/Extended.Builder
@@ -174,6 +181,9 @@ Scroll down and in "Regular Expression", type "music-extended", check "Attempt t
 Scroll up and click on "Add"
 
 <img src=".github/Installation/25.png">
+
+</details>
+
 
 Click for the last time on "Add App", and paste this link into App Source URL *:
 ```console
