@@ -2,7 +2,7 @@
 
 ## <p align="center"> Available apps :
 - YT and YT Music (Arm64-v8a).
-> To use these applications, you need to install [GMSCore](https://github.com/ReVanced/GmsCore/releases/latest). View [applied patches](https://github.com/kevinr99089/Extended.Builder/blob/main/config.toml).
+> To use these applications, you need to install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases/latest). View [applied patches](https://github.com/kevinr99089/Extended.Builder/blob/main/config.toml).
 
 ## <p align="center"> Learn more :
 - [History of Extended](https://github.com/kevinr99089/Extended.Builder/blob/main/history.md)
