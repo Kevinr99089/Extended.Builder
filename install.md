@@ -1,10 +1,10 @@
 # <p align="center">How to install apps?
 
 ### For installing with ReVanced Manager, please [follow this tutorial](https://mega.nz/file/3SAjiIxQ#0dWhhwk5TIEMRz4jct2ztZA1w-bbotf8tEBEzxd1C1Y)
-Links: [ReVanced Manager](https://github.com/ReVanced/revanced-manager/releases/latest), [GMSCore](https://github.com/ReVanced/GmsCore/releases//latest).
+Links: [ReVanced Manager](https://github.com/ReVanced/revanced-manager/releases/latest), [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest).
 #
 ### For installing with ReVancify, please [follow this tutorial](https://mega.nz/file/vaoTALpD#6ZMQ6DpYWIbXPu6u_s0X5MghSS_J26duI574NCNa8ME)
-Links: [Termux](https://github.com/termux/termux-app/releases/latest), [GMSCore](https://github.com/ReVanced/GmsCore/releases/latest).
+Links: [Termux](https://github.com/termux/termux-app/releases/latest), [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest).
 
 Copy/Past this command: After installation, type ```revancify``` in termux and press enter.
 ```console
@@ -151,7 +151,7 @@ Once pasted, settings will open. Check "Verify the 'latest' tag":
 
 <img src=".github/Installation/23.png">
 
-Scroll a little more and scroll a little more and in "Regular Expression", type "yt-extended", disable "Attempt to filter APKs by CPU architecture if possible" and type the name you want (optional):
+Scroll a little more and scroll a little more and in "Regular Expression", type "yt-extended", uncheck "Attempt to filter APKs by CPU architecture if possible" and type the name you want (optional):
 
 <img src=".github/Installation/24.png">
 
@@ -167,7 +167,7 @@ Check again "Verify the 'latest' tag":
 
 <img src=".github/Installation/23.png">
 
-Scroll down and in "Regular Expression", type "music-extended", enable "Attempt to filter APKs by CPU architecture if possible" and type the name you want (optional):
+Scroll down and in "Regular Expression", type "music-extended", check "Attempt to filter APKs by CPU architecture if possible" and type the name you want (optional):
 
 <img src=".github/Installation/26.png">
 
