@@ -155,7 +155,7 @@ Once pasted, settings will open. Check "Verify the 'latest' tag":
 
 <img src=".github/Installation/23.png">
 
-Scroll a little more and scroll a little more and in "Regular Expression", type "yt-extended", uncheck "Attempt to filter APKs by CPU architecture if possible" and type the name you want (optional):
+Scroll a little more and in "Regular Expression", type "yt-extended", uncheck "Attempt to filter APKs by CPU architecture if possible" and type the name you want (optional):
 
 <img src=".github/Installation/24.png">
 
