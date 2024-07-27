@@ -9,10 +9,6 @@
       {
         "key": "SelectedStringResources",
         "value": "fr"
-      },
-      {
-        "key": "CustomTranslations",
-        "value": ".github/strings.xml"
       }
     ]
   }
