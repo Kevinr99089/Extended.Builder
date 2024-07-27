@@ -12,7 +12,7 @@
       },
       {
         "key": "CustomTranslations",
-        "value": "/.github/string.xml"
+        "value": ".github/strings.xml"
       }
     ]
   }
