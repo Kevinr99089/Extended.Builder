@@ -13,7 +13,7 @@
 
 ## <p align="center"> Thanks to :
 >[!NOTE]
-> **I am NOT Inotia00, this repository is [not hosted or supported by him](https://github.com/kevinr99089/Extended.Builder/blob/main/history.md#-warning-), support his efforts.**
+> **I am NOT Inotia00, this repository is [not hosted, approved or supported by him](https://github.com/kevinr99089/Extended.Builder/blob/main/history.md#-warning-), support his efforts.**
 - **[j-hc](https://github.com/j-hc), Creator of this Module.**
 
 - **[inotia00](https://github.com/inotia00), Creator of Mods for YT and Music.**
