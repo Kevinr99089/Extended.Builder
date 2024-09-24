@@ -179,7 +179,6 @@ rm -rf temp/tmp.*
 if [ -z "$(ls -A1 ${BUILD_DIR})" ]; then abort "All builds failed."; fi
 
 log "$(cat $TEMP_DIR/*-rv/changelog.md)"
-log "note: If you have any problems with yt_latest, use the stable version instead. The inotia00 patches support this version, but there are A/B tests."
 
 SKIPPED=$(cat $TEMP_DIR/skipped 2>/dev/null || :)
 if [ -n "$SKIPPED" ]; then
