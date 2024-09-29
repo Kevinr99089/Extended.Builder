@@ -230,8 +230,10 @@ and you're done. Now open YT, go to library and click "+" to sign in to your Goo
     <summary>About Regular Expressions on Obtainium</summary>
 
   Obtainium can be used on other repositories or other sites, regular expressions can be useful.
+
   Q- What are regular expressions?
-  A- It can be used to filter files. To make it easier to download a particular file, or to avoid downloading a particular file.
+
+  A- It can be used to filter files. To make it easier to download a particular file, or to avoid downloading a another file.
 
   See an example with this image :
 
@@ -239,9 +241,12 @@ and you're done. Now open YT, go to library and click "+" to sign in to your Goo
 
 You'll see 2 releases: if you choose 'yt-extended' as a regular expression, it will ask you to choose from all applications containing 'yt-extended' (if there's only one, as in the example, it will download it directly).
 If, on the other hand, you check the 'invert regular expression', it will exclude all files containing 'yt-extended', It will then propose all releases that do not include 'yt-extended'. (As in the example, there are 2 applications, it will download 'music-extended' by default.)
+
+However, avoid selecting the application version as a regular expression, because in case of update, the requested version may no longer be available.
+
 More information here: https://github.com/ImranR98/Obtainium/wiki#basics .
 
-In addition to regular expressions, Obtainium is useful for facilitating installation, checking for updates regularly (according to the time you choose in the settings), and sending you a notification to let you know when an update is available for your applications. You can combine it with Shizuku to automate the installation of updates. however, when there is more than one release, it may not install automatically.
+In addition to regular expressions, Obtainium is useful for facilitating installation, checking for updates regularly (according to the duration selected in the app settings), and sending you a notification to let you know when an update is available for your applications. You can combine it with Shizuku to automate the installation of updates. however, when there is more than one release, it may not install automatically.
   
 </details>
 
