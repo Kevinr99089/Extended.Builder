@@ -18,4 +18,6 @@
 
 - **[inotia00](https://github.com/inotia00), Creator of Mods for YT and Music.**
 
+- **[peternmuller](https://github.com/peternmuller), Help and suggestions for this builder.**
+
 ##### <p align="right"> **Extended is owned by inotia00, no rights reserved.**
