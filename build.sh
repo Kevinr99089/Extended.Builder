@@ -164,8 +164,7 @@ wait
 rm -rf temp/tmp.*
 if [ -z "$(ls -A1 "${BUILD_DIR}")" ]; then abort "All builds failed."; fi
 
-log "Use 'yt_extended' if you want functional patches."
-log "Use 'yt_latest_support_extended' if you want the latest version patchs supported of YT, but the patches may no longer work due to A/B tests."
+log "note: if you have any problems with yt_latest_supported_extended due to A/B tests, use the yt-extended instead."
 log "$(cat "$TEMP_DIR"/*-rv/changelog.md)"
 
 SKIPPED=$(cat "$TEMP_DIR"/skipped 2>/dev/null || :)
