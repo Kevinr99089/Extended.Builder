@@ -98,7 +98,7 @@ and you're done. Now open YT, go to library and click "+" to sign in to your Goo
 
 > **The signatures are different from ReVanced Manager. You must uninstalling the application patched by RV Manager for use these releases (export your settings before uninstalling it).**
 
-> This installation method was inspired by a friend, [Support his efforts](https://github.com/peternmuller/revanced-builder).
+> This installation method was inspired by peternmuller, [Support his efforts](https://github.com/kevinr99089/Extended.Builder/?tab=readme-ov-file#-thanks-to-).
 
 #
 
