@@ -9,7 +9,7 @@
 
 - [Install Extended](https://github.com/kevinr99089/Extended.Builder/blob/main/install.md)
 
-- [Builds for ReVanced](https://github.com/Kevinr99089/ReVanced.Builder).
+- [Builds for ReVanced](https://github.com/Kevinr99089/ReVanced.Builder), [Builds for Anddea](https://github.com/Kevinr99089/Anddea.Builder).
 
 ## <p align="center"> Thanks to :
 >[!NOTE]
