@@ -13,7 +13,7 @@ curl -sL "https://raw.githubusercontent.com/decipher3114/Revancify/main/install.
 #
 ### For installing with this builder, please [follow this tutorial](https://github.com/Kevinr99089/Extended.Builder/blob/main/install.md#for-installing-with-this-builder-please-follow-this-tutorial)
 <details>
-  <summary>Manual installation</summary>
+  <summary>No auto update</summary>
 
 > **The signatures are different from ReVanced Manager. You must uninstalling the application patched by RV Manager for use these releases (export your settings before uninstalling it).**
 #
@@ -28,7 +28,9 @@ and click on MicroG_RE_x.x.apk :
 
 ---
 
-Disabling Play Protect is necessary if, **only if** applications refuse to be installed.
+<details>
+      <summary>
+Disabling Play Protect is necessary if, **only if** application refuse to be installed.</summary>
 
 Go to Play Store, click on your profile picture in the top right-hand corner, then click on "Manage app & device"  :
 
@@ -48,27 +50,34 @@ and disable "Scan apps with Play Protect" :
 
 Remember to re-enable it if you had to disable it to install applications.
 
+</details>
+
 ---
 
-First click on MicroG_RE_X.X.apk in the notification bar:
+First install on MicroG_RE_X.X.apk in the notification bar and yt-extended-vxx.xx.xx-all.apk:
 
 <img src=".github/Installation/09.png">
 
-if you have never installed applications from the Web, you need to enable 'Unknown Sources' in settings:
+<details>
+      <summary>
+If you've never installed an application from the internet</summary>
+Click on the application you've just downloaded in the notification bar, if you have never installed applications from the Web, you need to enable 'Unknown Sources' in settings:
 
 <img src=".github/Installation/10.png">
--
-and allow permissions:
+
+and allow permission: 
 
 <img src=".github/Installation/11.png">
 
-Another pop-up will appear, click on "install".
+ then install app :
 
 <img src=".github/Installation/12.png">
 
 Once microG Services is installed, click on OK and click on YT-Extended (in the notification bar) and click on "Install"
 
 <img src=".github/Installation/13.png">
+</details>
+
 
 Once done, Go to Home screen (or Settings > Apps), and go to MicroG settings :
 
@@ -94,10 +103,9 @@ and you're done. Now open YT, go to library and click "+" to sign in to your Goo
 
 </details>
 <details>
-    <summary>Easy installation</summary>
+    <summary>Auto update (Obtainium)</summary>
 
 > **The signatures are different from ReVanced Manager. You must uninstalling the application patched by RV Manager for use these releases (export your settings before uninstalling it).**
-
 > This installation method was inspired by peternmuller, [Support his efforts](https://github.com/kevinr99089/Extended.Builder/?tab=readme-ov-file#-thanks-to-).
 
 #
@@ -107,8 +115,27 @@ Go to [Obtainium Releases](https://github.com/ImranR98/Obtainium/releases/latest
 <img src=".github/Installation/20.png">
 
 ---
+<details>
+      <summary>
+If you've never installed an application from the internet</summary>
+Click on the application you've just downloaded in the notification bar, if you have never installed applications from the Web, you need to enable 'Unknown Sources' in settings:
 
-Disabling Play Protect is necessary if, **only if** application refuse to be installed.
+<img src=".github/Installation/10.png">
+
+and allow permission: 
+
+<img src=".github/Installation/11.png">
+
+ then install app :
+
+<img src=".github/Installation/21.png">
+</details>
+
+---
+
+<details>
+      <summary>
+Disabling Play Protect is necessary if, **only if** application refuse to be installed.</summary>
 
 Go to Play Store, click on your profile picture in the top right-hand corner, then click on "Manage app & device"  :
 
@@ -128,26 +155,61 @@ and disable "Scan apps with Play Protect" :
 
 Remember to re-enable it if you had to disable it to install applications.
 
+</details>
+
 ---
+<details>
+    <summary>Pre-configured</summary>
 
-Click on the application you've just downloaded in the notification bar, if you have never installed applications from the Web, you need to enable 'Unknown Sources' in settings:
+once installed, click on these links to automatically add pre-configured applications.
 
-<img src=".github/Installation/10.png">
+Auto add RVX: [Obtainium add RVX](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.rvx.android.youtube%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fkevinr99089%2FExtended.Builder%22%2C%22author%22%3A%22kevinr99089%22%2C%22name%22%3A%22YouTube%22%2C%22preferredApkIndex%22%3A0%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3Afalse%2C%5C%22fallbackToOlderReleases%5C%22%3Atrue%2C%5C%22filterReleaseTitlesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22filterReleaseNotesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22verifyLatestTag%5C%22%3Atrue%2C%5C%22dontSortReleasesList%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Afalse%2C%5C%22releaseTitleAsVersion%5C%22%3Afalse%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22releaseDateAsVersion%5C%22%3Afalse%2C%5C%22useVersionCodeAsOSVersion%5C%22%3Afalse%2C%5C%22apkFilterRegEx%5C%22%3A%5C%22yt-extended%5C%22%2C%5C%22invertAPKFilter%5C%22%3Afalse%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22RVX%5C%22%2C%5C%22shizukuPretendToBeGooglePlay%5C%22%3Afalse%2C%5C%22allowInsecure%5C%22%3Afalse%2C%5C%22exemptFromBackgroundUpdates%5C%22%3Afalse%2C%5C%22skipUpdateNotifications%5C%22%3Afalse%2C%5C%22about%5C%22%3A%5C%22%5C%22%7D%22%2C%22overrideSource%22%3Anull%7D).
 
-and allow permission: 
+<details>
+    <summary>install YT-Music (optional)</summary>
 
-<img src=".github/Installation/11.png">
 
- then install app :
+Auto add RVX Music: [Obtainium add RVX music](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.rvx.android.apps.youtube.music%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FKevinr99089%2FExtended.Builder%22%2C%22author%22%3A%22Kevinr99089%22%2C%22name%22%3A%22YouTube%C2%A0Music%22%2C%22preferredApkIndex%22%3A0%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3Afalse%2C%5C%22fallbackToOlderReleases%5C%22%3Atrue%2C%5C%22filterReleaseTitlesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22filterReleaseNotesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22verifyLatestTag%5C%22%3Atrue%2C%5C%22dontSortReleasesList%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Afalse%2C%5C%22releaseTitleAsVersion%5C%22%3Afalse%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22releaseDateAsVersion%5C%22%3Afalse%2C%5C%22useVersionCodeAsOSVersion%5C%22%3Afalse%2C%5C%22apkFilterRegEx%5C%22%3A%5C%22music-extended%5C%22%2C%5C%22invertAPKFilter%5C%22%3Afalse%2C%5C%22autoApkFilterByArch%5C%22%3Atrue%2C%5C%22appName%5C%22%3A%5C%22RVX%20Music%5C%22%2C%5C%22shizukuPretendToBeGooglePlay%5C%22%3Afalse%2C%5C%22allowInsecure%5C%22%3Afalse%2C%5C%22exemptFromBackgroundUpdates%5C%22%3Afalse%2C%5C%22skipUpdateNotifications%5C%22%3Afalse%2C%5C%22about%5C%22%3A%5C%22%5C%22%7D%22%2C%22overrideSource%22%3Anull%7D).
+</details>
 
-<img src=".github/Installation/21.png">
+Auto add GMSCore (MicroG-RE): [Obtainium add MicroG-RE (GMSCore)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.revanced.android.gms%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FWSTxda%2FMicroG-RE%22%2C%22author%22%3A%22WSTxda%22%2C%22name%22%3A%22MicroG%22%2C%22preferredApkIndex%22%3A0%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3Afalse%2C%5C%22fallbackToOlderReleases%5C%22%3Atrue%2C%5C%22filterReleaseTitlesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22filterReleaseNotesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22verifyLatestTag%5C%22%3Atrue%2C%5C%22dontSortReleasesList%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Afalse%2C%5C%22releaseTitleAsVersion%5C%22%3Afalse%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22releaseDateAsVersion%5C%22%3Afalse%2C%5C%22useVersionCodeAsOSVersion%5C%22%3Afalse%2C%5C%22apkFilterRegEx%5C%22%3A%5C%22MicroG_RE%5C%22%2C%5C%22invertAPKFilter%5C%22%3Afalse%2C%5C%22autoApkFilterByArch%5C%22%3Atrue%2C%5C%22appName%5C%22%3A%5C%22MicroG-RE%20(GMSCore)%5C%22%2C%5C%22shizukuPretendToBeGooglePlay%5C%22%3Afalse%2C%5C%22allowInsecure%5C%22%3Afalse%2C%5C%22exemptFromBackgroundUpdates%5C%22%3Afalse%2C%5C%22skipUpdateNotifications%5C%22%3Afalse%2C%5C%22about%5C%22%3A%5C%22%5C%22%7D%22%2C%22overrideSource%22%3Anull%7D).
 
+Perfect, the 2 or 3 applications are ready to install. Just click on the download icon on the applications
+<img src=".github/Installation/29.png">
+
+Once done, Go to Home screen (or Settings > Apps), and go to MicroG settings :
+
+<img src=".github/Installation/14.png">
+
+Go to permissions :
+
+<img src=".github/Installation/15.png">
+
+and enable everything :
+
+<img src=".github/Installation/16.png">
+
+Return to the previous menu and go to battery: 
+
+<img src=".github/Installation/31.png">
+
+and set this app as 'Unrestricted' :
+
+<img src=".github/Installation/17.png">
+
+and you're done. Now open YT, go to library and click "+" to sign in to your Google account.
+
+---
+</details>
+
+<details>
+   <summary>Manual configuration</summary>
 once installed, open Obtainium, the application looks complicated, but it's not.
 Click on Add App, and paste this link into App Source URL *:
-```console
+
+  ```console
 https://www.github.com/Kevinr99089/Extended.Builder
 ```
-
 
 <img src=".github/Installation/22.png">
 
@@ -160,8 +222,6 @@ Scroll a little more and in "Regular Expression", type "yt-extended", uncheck "A
 <img src=".github/Installation/24.png">
 
 Scroll up again and click on "Add":
-
-Or, click on this pre-configured link: [Obtainium add RVX](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.rvx.android.youtube%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fkevinr99089%2FExtended.Builder%22%2C%22author%22%3A%22kevinr99089%22%2C%22name%22%3A%22YouTube%22%2C%22preferredApkIndex%22%3A0%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3Afalse%2C%5C%22fallbackToOlderReleases%5C%22%3Atrue%2C%5C%22filterReleaseTitlesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22filterReleaseNotesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22verifyLatestTag%5C%22%3Atrue%2C%5C%22dontSortReleasesList%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Afalse%2C%5C%22releaseTitleAsVersion%5C%22%3Afalse%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22releaseDateAsVersion%5C%22%3Afalse%2C%5C%22useVersionCodeAsOSVersion%5C%22%3Afalse%2C%5C%22apkFilterRegEx%5C%22%3A%5C%22yt-extended%5C%22%2C%5C%22invertAPKFilter%5C%22%3Afalse%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22RVX%5C%22%2C%5C%22shizukuPretendToBeGooglePlay%5C%22%3Afalse%2C%5C%22allowInsecure%5C%22%3Afalse%2C%5C%22exemptFromBackgroundUpdates%5C%22%3Afalse%2C%5C%22skipUpdateNotifications%5C%22%3Afalse%2C%5C%22about%5C%22%3A%5C%22%5C%22%7D%22%2C%22overrideSource%22%3Anull%7D).
 
 <img src=".github/Installation/25.png">
 
@@ -182,12 +242,9 @@ Scroll down and in "Regular Expression", type "music-extended", check "Attempt t
 
 Scroll up and click on "Add"
 
-Or, click on this pre-configured link: [Obtainium add RVX music](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.rvx.android.apps.youtube.music%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FKevinr99089%2FExtended.Builder%22%2C%22author%22%3A%22Kevinr99089%22%2C%22name%22%3A%22YouTube%C2%A0Music%22%2C%22preferredApkIndex%22%3A0%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3Afalse%2C%5C%22fallbackToOlderReleases%5C%22%3Atrue%2C%5C%22filterReleaseTitlesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22filterReleaseNotesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22verifyLatestTag%5C%22%3Atrue%2C%5C%22dontSortReleasesList%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Afalse%2C%5C%22releaseTitleAsVersion%5C%22%3Afalse%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22releaseDateAsVersion%5C%22%3Afalse%2C%5C%22useVersionCodeAsOSVersion%5C%22%3Afalse%2C%5C%22apkFilterRegEx%5C%22%3A%5C%22music-extended%5C%22%2C%5C%22invertAPKFilter%5C%22%3Afalse%2C%5C%22autoApkFilterByArch%5C%22%3Atrue%2C%5C%22appName%5C%22%3A%5C%22RVX%20Music%5C%22%2C%5C%22shizukuPretendToBeGooglePlay%5C%22%3Afalse%2C%5C%22allowInsecure%5C%22%3Afalse%2C%5C%22exemptFromBackgroundUpdates%5C%22%3Afalse%2C%5C%22skipUpdateNotifications%5C%22%3Afalse%2C%5C%22about%5C%22%3A%5C%22%5C%22%7D%22%2C%22overrideSource%22%3Anull%7D).
-
 <img src=".github/Installation/25.png">
 
 </details>
-
 
 Click for the last time on "Add App", and paste this link into App Source URL *:
 ```console
@@ -202,8 +259,6 @@ Since this release has only one application, don't set "Regular Expressions", un
 <img src=".github/Installation/27.png">
 
 and type "Add"
-
-Or, click on this pre-configured link: [Obtainium add MicroG-RE (GMSCore)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.revanced.android.gms%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FWSTxda%2FMicroG-RE%22%2C%22author%22%3A%22WSTxda%22%2C%22name%22%3A%22MicroG%22%2C%22preferredApkIndex%22%3A0%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3Afalse%2C%5C%22fallbackToOlderReleases%5C%22%3Atrue%2C%5C%22filterReleaseTitlesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22filterReleaseNotesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22verifyLatestTag%5C%22%3Atrue%2C%5C%22dontSortReleasesList%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Afalse%2C%5C%22releaseTitleAsVersion%5C%22%3Afalse%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22releaseDateAsVersion%5C%22%3Afalse%2C%5C%22useVersionCodeAsOSVersion%5C%22%3Afalse%2C%5C%22apkFilterRegEx%5C%22%3A%5C%22MicroG_RE%5C%22%2C%5C%22invertAPKFilter%5C%22%3Afalse%2C%5C%22autoApkFilterByArch%5C%22%3Atrue%2C%5C%22appName%5C%22%3A%5C%22MicroG-RE%20(GMSCore)%5C%22%2C%5C%22shizukuPretendToBeGooglePlay%5C%22%3Afalse%2C%5C%22allowInsecure%5C%22%3Afalse%2C%5C%22exemptFromBackgroundUpdates%5C%22%3Afalse%2C%5C%22skipUpdateNotifications%5C%22%3Afalse%2C%5C%22about%5C%22%3A%5C%22%5C%22%7D%22%2C%22overrideSource%22%3Anull%7D).
 
 <img src=".github/Installation/28.png">
 
@@ -232,6 +287,9 @@ and set this app as 'Unrestricted' :
 
 and you're done. Now open YT, go to library and click "+" to sign in to your Google account.
 
+---
+</details>
+
 <details>
     <summary>About Regular Expressions on Obtainium</summary>
 
@@ -253,7 +311,3 @@ However, avoid selecting the application version as a regular expression, becaus
 More information here: https://github.com/ImranR98/Obtainium/wiki#basics .
 
 In addition to regular expressions, Obtainium is useful for facilitating installation, checking for updates regularly (according to the duration selected in the app settings), and sending you a notification to let you know when an update is available for your applications. You can combine it with Shizuku to automate the installation of updates. however, when there is more than one release, it may not install automatically.
-  
-</details>
-
-</details>
