@@ -12,11 +12,11 @@ curl -sL "https://raw.githubusercontent.com/decipher3114/Revancify/main/install.
 ```
 #
 ### For installing with this builder, please [follow this tutorial](https://github.com/Kevinr99089/Extended.Builder/blob/main/install.md#for-installing-with-this-builder-please-follow-this-tutorial)
+
+> **The signatures are different from ReVanced Manager. You must uninstalling the application patched by RV Manager for use these releases from installation methods below (export your settings before uninstalling it).**
+#
 <details>
   <summary>No auto update</summary>
-
-> **The signatures are different from ReVanced Manager. You must uninstalling the application patched by RV Manager for use these releases (export your settings before uninstalling it).**
-#
 
 Go to [Releases](https://github.com/kevinr99089/Extended.Builder) page, scroll down and click on the application you want (For my exemple, YT-Extended), then on [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases/latest) (required for use these mods):
 
@@ -105,12 +105,11 @@ and you're done. Now open YT, go to library and click "+" to sign in to your Goo
 <details>
     <summary>Auto update (Obtainium)</summary>
 
-> **The signatures are different from ReVanced Manager. You must uninstalling the application patched by RV Manager for use these releases (export your settings before uninstalling it).**
 > This installation method was inspired by peternmuller, [Support his efforts](https://github.com/kevinr99089/Extended.Builder/?tab=readme-ov-file#-thanks-to-).
 
 #
 
-Go to [Obtainium Releases](https://github.com/ImranR98/Obtainium/releases/latest) page, scroll down and select the application corresponding to your processor architecture (for my exemple, arm64-v8a):
+Go to [Obtainium Releases](https://github.com/ImranR98/Obtainium/releases/latest) page, scroll down and select the application corresponding to your processor architecture (for my exemple, arm64-v8a), then install it:
 
 <img src=".github/Installation/20.png">
 
@@ -174,7 +173,7 @@ Auto add RVX Music: [Obtainium add RVX music](https://apps.obtainium.imranr.dev/
 
 Auto add GMSCore (MicroG-RE): [Obtainium add MicroG-RE (GMSCore)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.revanced.android.gms%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FWSTxda%2FMicroG-RE%22%2C%22author%22%3A%22WSTxda%22%2C%22name%22%3A%22MicroG%22%2C%22preferredApkIndex%22%3A0%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3Afalse%2C%5C%22fallbackToOlderReleases%5C%22%3Atrue%2C%5C%22filterReleaseTitlesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22filterReleaseNotesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22verifyLatestTag%5C%22%3Atrue%2C%5C%22dontSortReleasesList%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Afalse%2C%5C%22releaseTitleAsVersion%5C%22%3Afalse%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22releaseDateAsVersion%5C%22%3Afalse%2C%5C%22useVersionCodeAsOSVersion%5C%22%3Afalse%2C%5C%22apkFilterRegEx%5C%22%3A%5C%22MicroG_RE%5C%22%2C%5C%22invertAPKFilter%5C%22%3Afalse%2C%5C%22autoApkFilterByArch%5C%22%3Atrue%2C%5C%22appName%5C%22%3A%5C%22MicroG-RE%20(GMSCore)%5C%22%2C%5C%22shizukuPretendToBeGooglePlay%5C%22%3Afalse%2C%5C%22allowInsecure%5C%22%3Afalse%2C%5C%22exemptFromBackgroundUpdates%5C%22%3Afalse%2C%5C%22skipUpdateNotifications%5C%22%3Afalse%2C%5C%22about%5C%22%3A%5C%22%5C%22%7D%22%2C%22overrideSource%22%3Anull%7D).
 
-Perfect, the 2 or 3 applications are ready to install. Just click on the download icon on the applications
+Perfect, theses applications are ready to install. Just click on the download icon on the applications:
 <img src=".github/Installation/29.png">
 
 Once done, Go to Home screen (or Settings > Apps), and go to MicroG settings :
@@ -262,7 +261,7 @@ and type "Add"
 
 <img src=".github/Installation/28.png">
 
-Perfect, the 2 or 3 applications are ready to install. Just click on the download icon on the applications
+Perfect, thees applications are ready to install. Just click on the download icon on the applications:
 <img src=".github/Installation/29.png">
 
 Once done, Go to Home screen (or Settings > Apps), and go to MicroG settings :
