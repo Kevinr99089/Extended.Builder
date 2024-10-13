@@ -261,7 +261,7 @@ and type "Add"
 
 <img src=".github/Installation/28.png">
 
-Perfect, thees applications are ready to install. Just click on the download icon on the applications:
+Perfect, theses applications are ready to install. Just click on the download icon on the applications:
 <img src=".github/Installation/29.png">
 
 Once done, Go to Home screen (or Settings > Apps), and go to MicroG settings :
