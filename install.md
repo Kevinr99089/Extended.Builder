@@ -1,7 +1,7 @@
 # <p align="center">How to install apps?
 
 ### For installing with ReVanced Manager, please [follow this tutorial](https://mega.nz/file/3SAjiIxQ#0dWhhwk5TIEMRz4jct2ztZA1w-bbotf8tEBEzxd1C1Y)
-Links: [ReVanced Manager](https://github.com/ReVanced/revanced-manager/releases/latest), [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest).
+Links: [ReVanced Manager](https://github.com/inotia00/revanced-manager/releases/latest), [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest).
 #
 ### For installing with ReVancify, please [follow this tutorial](https://mega.nz/file/vaoTALpD#6ZMQ6DpYWIbXPu6u_s0X5MghSS_J26duI574NCNa8ME)
 Links: [Termux](https://github.com/termux/termux-app/releases/latest), [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest).
