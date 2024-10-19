@@ -289,14 +289,12 @@ and you're done. Now open YT, go to library and click "+" to sign in to your Goo
 
   Q- What are regular expressions?
 
-  A- It can be used to filter files. To make it easier to download a particular file, or to avoid downloading a another file.
-
-  See an example with this image :
+  A- Regular expressions can be used to filter applications in releases (particularly useful when a release contains several applications) :
 
   <img src=".github/Installation/30.png">
 
-You'll see 2 releases: if you choose 'yt-extended' as a regular expression, it will ask you to choose from all applications containing 'yt-extended' (if there's only one, as in the example, it will download it directly).
-If, on the other hand, you check the 'invert regular expression', it will exclude all files containing 'yt-extended', It will then propose all releases that do not include 'yt-extended'. (As in the example, there are 2 applications, it will download 'music-extended' by default.)
+In the example, there are 2 applications `yt-extended` and `music-extended`.
+If you choose `yt-extended` as the regular expression, Obtainium will suggest all applications containing this name, or (as in the example) automatically choose and download this application instead of asking you for it with each new release. By clicking on "invert regular expression", it will suggest all applications not containing `yt-extended` in the name (in my example, it will download `music-extended` by default).
 
 However, avoid selecting the application version as a regular expression, because in case of update, the requested version may no longer be available.
 
