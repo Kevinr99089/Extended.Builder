@@ -1,6 +1,6 @@
 ---
 name: Request language
-about: Describe your request
+about: Which language should I add?
 title: ''
 labels: Add language
 assignees: ''
