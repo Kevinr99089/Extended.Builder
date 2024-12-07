@@ -2,6 +2,9 @@
 
 ## <p align="center"> Available apps :
 - YT and YT Music (Arm64-v8a).
+
+  [![Github Releases](https://img.shields.io/github/downloads/kevinr99089/Extended.Builder/total?style=flat&label=Downloads&labelColor=black&logo=youtube&logoColor=FF0000)](https://github.com/kevinr99089/Extended.Builder/releases)
+
 > To use these applications, you need to install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases/latest). View [applied patches](https://github.com/kevinr99089/Extended.Builder/blob/main/config.toml).
 
 ## <p align="center"> Learn more :
