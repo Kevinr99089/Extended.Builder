@@ -3,7 +3,7 @@
 [YT] # Default patches are applied, Exception for lines 4 & 5 :
 included-patches = "'Custom branding icon for YouTube' 'Custom header for YouTube' 'Visual preferences icons for YouTube' 'Return YouTube Username'"
 excluded-patches = "'Custom branding name for YouTube' 'Swipe controls'"
-patcher-args = "-SelectedTranslations=el-rGR, fr-rFR -SelectedStringResources=bg, fr "
+# patcher-args = "-SelectedTranslations=el-rGR, fr-rFR -SelectedStringResources=bg, fr "
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 uptodown-dlurl = "https://youtube.fr.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
@@ -16,10 +16,10 @@ uptodown-dlurl = "https://youtube-music.fr.uptodown.com/android"
 arch = "arm64-v8a"
 
 [YT_latest_support] # Default patches are applied, Exception for lines 20 & 21 :
-enabled = false # Potentially no longer useful in the next release.
+enabled = true # Potentially no longer useful in the next release.
 included-patches = "'Custom branding icon for YouTube' 'Custom header for YouTube' 'Visual preferences icons for YouTube' 'Return YouTube Username'"
 excluded-patches = "'Custom branding name for YouTube' 'Swipe controls'"
-patcher-args = "-SelectedTranslations=el-rGR, fr-rFR -SelectedStringResources=bg, fr "
+# patcher-args = "-SelectedTranslations=el-rGR, fr-rFR -SelectedStringResources=bg, fr "
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 uptodown-dlurl = "https://youtube.fr.uptodown.com/android"
 version = "19.28.35"
