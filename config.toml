@@ -4,7 +4,8 @@
 excluded-patches = "'Custom branding name for YouTube' 'Swipe controls'"
 patcher-args = """\
 -SelectedTranslations=el-rGR, fr-rFR \
--SelectedStringResources=bg, fr \ """
+-SelectedStringResources=bg, fr \
+"""
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
