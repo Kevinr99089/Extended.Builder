@@ -3,10 +3,10 @@
 [YT] # Default patches are applied, Exception for lines 4 :
 excluded-patches = "'Custom branding name for YouTube' 'Swipe controls'"
 patcher-args = """\
-  -selectedTranslations=el-rGR \
-  -selectedTranslations=fr-rFR \
-  -selectedStringResources=bg \
-  -selectedStringResources=fr \
+  --selectedTranslations=el-rGR \
+  --selectedTranslations=fr-rFR \
+  --selectedStringResources=bg \
+  --selectedStringResources=fr \
   """
 # patcher-args = "-selectedTranslations=el-rGR, fr-rFR -selectedStringResources=bg, fr "
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
