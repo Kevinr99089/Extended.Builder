@@ -1,0 +1,15 @@
+[
+  {
+    "patchName": "Translations for YouTube",
+    "options": [
+      {
+        "key": "SelectedTranslations",
+        "value": "el-rGR, fr-rFR"
+      },
+      {
+        "key": "SelectedStringResources",
+        "value": "bg, fr"
+      }
+    ]
+  }
+]
