@@ -2,7 +2,7 @@
 
 [YT] # Default patches are applied, Exception for lines 4 :
 excluded-patches = "'Custom branding name for YouTube' 'Swipe controls'"
-patcher-args = "--legacy-options options.json"
+patcher-args = "-e 'Translations for YouTube' -OselectedTranslations=el-rGR, fr-rFR -OselectedStringResources=bg, fr -e"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
