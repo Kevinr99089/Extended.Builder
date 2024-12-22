@@ -1,7 +1,5 @@
 # <p align="center"> Welcome to Extended.Builder🛠️
 
-# As long as no patch is provided by j-hc for build Extended, this builder will remain archived for as long as necessary. Sorry to all Extended users, I don't code, so I can't fix this problem.
-
 ## <p align="center"> Available apps :
 - YT and YT Music (Arm64-v8a).
 
