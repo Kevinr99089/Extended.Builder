@@ -1,3 +1,4 @@
+Spotify: 9.0.34.105  
 Music: 8.05.51  
 YT: 19.47.53  
 CLI: inotia00/revanced-cli-5.0.1-all.jar  
