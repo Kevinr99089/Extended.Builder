@@ -2,6 +2,8 @@
 
 ## <p align="center"> Available apps :
 - YT and YT Music (Arm64-v8a).
+> Note: For the moment, this repository is no longer being updated for personal reasons.
+I'm going to learn a little about Morphe without necessarily implementing it. Anddea is safe for now, I'm going to implement Anddea first, and then see about Morphe.
 
   [![Github Releases](https://img.shields.io/github/downloads/kevinr99089/Extended.Builder/total?style=flat&label=Downloads&labelColor=black&logo=youtube&logoColor=FF0000)](https://github.com/kevinr99089/Extended.Builder/releases)
 
