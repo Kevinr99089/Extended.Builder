@@ -1,83 +1,49 @@
-enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
-parallel-jobs = 1
+# ⚠️ Only non-root builds.
 
-# add 'enabled = false' for not patching a specific app or remove it from the config
-# see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
-
-# you can use rvmm-config-gen to generate a config
-
-[YouTube]
-build-mode = "both"
-excluded-patches = ""
-included-patches = ""
-version = "auto"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+[YT-Anddea] # Default patches are applied, Exception for lines 7 - 8 :
+rv-brand = "Anddea"
+patches-source = "anddea/revanced-patches"
+cli-source = "inotia00/revanced-cli"
+included-patches = "'Custom branding icon for YouTube' 'Visual preferences icons'"
+excluded-patches = "'Custom branding name for YouTube' 'Swipe controls'"
+patcher-args = "-e 'Custom branding icon for YouTube' -appIcon=xisr_yellow -e 'Custom header for YouTube' -customHeader=xisr_yellow -e 'Translations for YouTube' -selectedTranslations=fr-rFR -selectedStringResources=fr"
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
-[Music]
-build-mode = "both"
-arch = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+[Music-Anddea] # Default patches are applied, Exception for lines 17 - 18 :
+rv-brand = "Anddea"
+patches-source = "anddea/revanced-patches"
+cli-source = "inotia00/revanced-cli"
+included-patches = "'Custom branding icon for YouTube Music' 'Custom header for YouTube Music'"
+excluded-patches = "'Custom branding name for YouTube Music'"
+patcher-args = "-e 'Custom branding icon for YouTube Music' -appIcon=xisr_yellow -e 'Custom header for YouTube Music' -customHeader=xisr_yellow"
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-
-[GooglePhotos]
-build-mode = "both"
-arch = "both"
-version = "auto"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
-uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.photos"
-
-[Spotify]
-enabled = false
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
-
-# https://github.com/j-hc/revanced-magisk-module/issues/554
-[Music-Extended]
-enabled = false
-app-name = "Music"
-patches-source = "inotia00/revanced-patches"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
-build-mode = "both"
-arch = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-
-[YouTube-Extended]
-enabled = false
-app-name = "YouTube"
-patches-source = "inotia00/revanced-patches"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
-build-mode = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-
-[Twitch]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
-uptodown-dlurl = "https://twitch.en.uptodown.com/android"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
-
-[Twitter]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
-build-mode = "apk"
-dpi = "120-640dpi"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
-
-[TikTok]
-enabled = false
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
-included-patches = "'SIM spoof'"
-
-[Messenger]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
 arch = "arm64-v8a"
 
-[IconPackStudio]
+[YT-Morphe] # Default patches are applied, Exception for lines 28 - 29 :
+rv-brand = "Morphe"
+patches-source = "MorpheApp/morphe-patches"
+cli-source = "MorpheApp/morphe-cli"
+included-patches = "'Custom branding icon for YouTube' 'Visual preferences icons'"
+excluded-patches = "'Custom branding name for YouTube' 'Swipe controls'"
+patcher-args = "-e 'Translations for YouTube' -OselectedTranslations=el-rGR,fr-rFR -OselectedStringResources=bg,fr"
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+
+[Music-Morphe] # Default patches are applied, Exception for lines 38 - 39 :
+rv-brand = "Morphe"
+patches-source = "MorpheApp/morphe-patches"
+cli-source = "MorpheApp/morphe-cli"
+included-patches = "'Custom branding icon for YouTube Music' 'Custom header for YouTube Music'"
+excluded-patches = "'Custom branding name for YouTube Music'"
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+arch = "arm64-v8a"
+
+[Spotify] # Default patches are applied.
 enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
+rv-brand = "ReVanced"
+patches-source = "revanced/revanced-patches"
+cli-source = "j-hc/revanced-cli"
+uptodown-dlurl = "https://spotify.en.uptodown.com/android"
