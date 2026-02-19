@@ -1,6 +1,6 @@
 # <p align="center"> Welcome to Extended.Builder🛠️
 
-> Inotia00 has stopped Extended, this builder now builds Anddea and MorpheApp.
+> Inotia00 has stopped Extended, this builder now builds Morphe patches Only.
 
 ## <p align="center"> Available apps :
 - YT and YT Music (Arm64-v8a).
@@ -24,12 +24,9 @@
 
 - **[inotia00](https://github.com/inotia00), Creator of Mods for YT and Music.**
 
-- **[Anddea](https://github.com/anddea), The one who revives Extended.**
-
 - **[MorpheApp](https://github.com/MorpheApp), The successor to Extended from Inotia00.**
 
 - **[peternmuller](https://github.com/peternmuller), Help and suggestions for this builder.**
 
 ##### <p align="right"> **Extended is owned by inotia00, no rights reserved.**
-##### <p align="right"> **Anddea is owned by Anddea, no rights reserved.**
 ##### <p align="right"> **MorpheApp is owned by MorpheApp, no rights reserved.**
