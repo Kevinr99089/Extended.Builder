@@ -2,7 +2,7 @@
 
 [YT] # Default patches are applied, Except line 5 and 6 :
 excluded-patches = "'Swipe controls'"
-patcher-args = "-e 'Custom branding' -OcustomName=YouTube"
+patcher-args = "-e 'Custom branding' -OcustomName=YouTube -OcustomIcon='.github/logos/morphe/'"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
 [Music] # Default patches are applied, but disabled :
