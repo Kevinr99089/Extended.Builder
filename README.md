@@ -1,5 +1,8 @@
 # <p align="center"> Welcome to Extended.Builder🛠️
 
+> [!WARNING]
+> This Builder will soon be renamed, however, Extended and Anddea releases available in this repository will remain available.
+
 > Inotia00 has stopped Extended, this builder now builds Morphe patches Only.
 
 ## <p align="center"> Available apps :
@@ -15,7 +18,7 @@
 - [Install Extended](https://github.com/kevinr99089/Extended.Builder/blob/main/install.md)
 
 - [Builds for ReVanced](https://github.com/Kevinr99089/ReVanced.Builder), [Builds for Anddea](https://github.com/Kevinr99089/Anddea.Builder).
-> Note: These builders have been archived since February 1, 2025, and I will focus on maintaining this builder.
+> Note: These repository have been archived since February 1, 2025, and I will focus on maintaining this builder.
 
 ## <p align="center"> Thanks to :
 >[!NOTE]
