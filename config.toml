@@ -1,11 +1,13 @@
 # ⚠️ Only non-root builds.
 
-[YT] # Default patches are applied, Except line 4 and 5 :
+[YT] # Default patches are applied, Except line 5 and 6 :
+rv-brand = "Morphe"
 excluded-patches = "'Swipe controls'"
 patcher-args = "-e 'Custom branding' -OcustomName=YouTube -OcustomIcon='.github/logos/morphe/'"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
-[YT_Revancify] # Default patches are applied, Except line 9 and 10 :
+[YT_Revancify] # Default patches are applied, Except line 11 and 12 :
+rv-brand = "ReVancify"
 excluded-patches = "'Swipe controls'"
 patcher-args = "-e 'Custom branding' -OcustomName=YouTube -OcustomIcon='.github/logos/revancify_blue/'"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
